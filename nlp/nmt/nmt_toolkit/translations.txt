@@ -1,0 +1,3000 @@
+0
+src:	この 路地 は 通り抜け でき ま せ ん 。
+tgt:	this is a dead @-@ end alley .
+lex:	this answer was finally .
+bas:	i can 't go out this point .
+
+1
+src:	ええ 、 届 い た の を お 知 らせ する の を 忘れ て しま っ て す み ま せ ん 。
+tgt:	yes , sorry , i forgot to acknowledge it .
+lex:	i don 't forget to have made a reached , but i don 't have to put up with me .
+bas:	we have to forget to forget to know the truth . i have to forget to know your own for a moment .
+
+2
+src:	彼 は ドイツ 生まれ の 人 だ 。
+tgt:	he is a german by origin .
+lex:	he is a man of life .
+bas:	he is a man of great ability .
+
+3
+src:	我々 は ロビン フッド の 伝説 を 良く 知 っ て い る 。
+tgt:	we are familiar with the legend of robin hood .
+lex:	we know the school of the world .
+bas:	we know the most of the best of the city .
+
+4
+src:	トランク に は 鍵 が かけ られ て い ま す か 。
+tgt:	is your trunk locked ?
+lex:	what 's the key ?
+bas:	is there a key in the evening ?
+
+5
+src:	それ は 冗談 の つもり で い っ た だけ だ よ 。
+tgt:	i just meant it as a joke .
+lex:	it 's only only only to do .
+bas:	it 's a time that i 've been to the joke .
+
+6
+src:	その 部屋 は 居心地 の 良 い 感じ が し た 。
+tgt:	the room had a nice cozy feel .
+lex:	the room was good at the party .
+bas:	the room was good at the room .
+
+7
+src:	パソコン が 使え る の は 彼女 だけ で す 。
+tgt:	she alone is able to use the personal computer .
+lex:	it is only that that i can 't wait .
+bas:	i 'm sure she will be true .
+
+8
+src:	彼 ら は 共同 声明 に 同意 し た 。
+tgt:	they agreed on a joint statement .
+lex:	they agreed to the end of a life .
+bas:	they were on the door .
+
+9
+src:	彼 は 彼女 を バス に 助け あげ た 。
+tgt:	he handed her up into the bus .
+lex:	he help her bus .
+bas:	he help her .
+
+10
+src:	彼 に どんな 欠点 が あ る に し て も 、 卑劣 な ところ は な い 。
+tgt:	whatever faults he may have , meanness is not one of them .
+lex:	it is not a good idea of the faults that he is a faults .
+bas:	i don 't know the less of him .
+
+11
+src:	「 こんな 朝 早く から 開館 し て る ん で す か ？ 」 「 私 は 顔 パス よ 」
+tgt:	&quot; will they be open this early in the morning ? &quot; &quot; they 'll let me in on sight . &quot;
+lex:	&quot; i 'm going to see a chance from this morning ? &quot; &quot; i 'll come out . &quot;
+bas:	
+
+12
+src:	人間 も 極度 に 寒 い 温度 に 対 し て は 、 防御 装置 を 備え て い る 。
+tgt:	man , too , has been given protective devices against extreme temperatures .
+lex:	human human man is mr light for cold and light .
+bas:	the man who is the best of the cold .
+
+13
+src:	私 は タバコ を 吸 う の を やめ た 。
+tgt:	i stopped smoking .
+lex:	i quit smoking smoking .
+bas:	i let my smoking at once .
+
+14
+src:	彼 は かっと な っ て 私 を 殴 っ た 。
+tgt:	he struck me in a passion .
+lex:	he has a cup of me .
+bas:	he put me a little place .
+
+15
+src:	彼 は ロープ を 引っ張 っ た 。
+tgt:	he pulled the rope .
+lex:	he has been rope .
+bas:	he took a new novel .
+
+16
+src:	どう し て あやま っ て 彼 の 許し を こ わ な い ん だ 。
+tgt:	why not apologize and ask for his pardon ?
+lex:	i don 't know him to do with his own job .
+bas:	i don 't have to have his own way .
+
+17
+src:	私 は 彼 ら は 来る と 思 う 。
+tgt:	i suppose they are coming .
+lex:	i think they will come .
+bas:	i think they are come .
+
+18
+src:	丘 の 上 に 建 っ て い る 家 は とても 古 い 。
+tgt:	the house which stands on the hill is very old .
+lex:	the house is very old on the hill .
+bas:	the house is very old to the hill .
+
+19
+src:	私 は 早 く 着 き すぎ た 。
+tgt:	i arrived there too early .
+lex:	i got up early .
+bas:	i got a early early .
+
+20
+src:	私 は 彼 の 親切 に こたえ た い 。
+tgt:	i would like to repay him for his kindness .
+lex:	i want to be his kind of kind of kind .
+bas:	i want to be a kind of him .
+
+21
+src:	屋根 は 強風 に 飛ば さ れ た 。
+tgt:	the roof was torn off by the gale .
+lex:	the roof was made in the middle of the table .
+bas:	the snow was made in the last year .
+
+22
+src:	霧 の 中 から 突然 船 が 現れ た 。
+tgt:	a boat suddenly appeared out of the mist .
+lex:	suddenly of the fog from the fog .
+bas:	the ship of the mountain , the ship was out .
+
+23
+src:	車 が 衝突 し た とき シート ベルト を し て い た ら 、 彼 は 今 で も 生き て い る だ ろ う 。
+tgt:	he would still be alive if he had been wearing his seat belt when the car crashed .
+lex:	when i was the car , he would be alive now .
+bas:	when he was a car , he will live now .
+
+24
+src:	あなた が 結婚 し 子供 を 持 っ た ら 、 言葉 より 実践 と い う こと を 悟 る で しょ う 。
+tgt:	when you get married and have kids , you 'll realize that actions speak louder than words .
+lex:	if you have a child , i will have a word to you .
+bas:	if you have a child , you will be a marriage .
+
+25
+src:	それ は 遺憾 な ところ が 多 い 。
+tgt:	it leaves nothing much to be desired .
+lex:	it is a lot of places .
+bas:	it is many easy that .
+
+26
+src:	その 装置 が 作動 し て い る 間 は 暖房 を 止め る こと は でき な い 。
+tgt:	you can 't turn the heat off as long as the system is operating .
+lex:	we can 't hear the matter for the old time .
+bas:	the cat can be able to swim in the world .
+
+27
+src:	ピクニック は 雨 の ため に 中止 に な っ た 。
+tgt:	the picnic was called off because of rain .
+lex:	the picnic was called off because of rain .
+bas:	the picnic has gone to rain .
+
+28
+src:	彼 は 週末 に よく 家 を 空け る 。
+tgt:	he often stays away from home on the weekend .
+lex:	he often often home in the weekend .
+bas:	he can play the house in the evening .
+
+29
+src:	その シェパード は 、 びっこ を ひ き ながら 道 を 歩 い て い た 。
+tgt:	the german shepherd was limping down the street .
+lex:	the old man walked the road of the road .
+bas:	the old man was walked at the best of the best .
+
+30
+src:	ボブ は 読 み きれ な い ほど たくさん の 本 を 持 っ て い る 。
+tgt:	bob has too many books to read .
+lex:	bob has a lot of books to read .
+bas:	bob has a lot of books to read a lot of books .
+
+31
+src:	板 に くぎ を 打ち込 ん だ 。
+tgt:	he hammered nails into the plank .
+lex:	i 'm sorry to the meeting .
+bas:	i 'm looking forward to the back .
+
+32
+src:	宿題 は もう 終わ っ た の で す か 。
+tgt:	have you finished your homework already ?
+lex:	what did you finished your homework ?
+bas:	did you have finished your homework ?
+
+33
+src:	まず その 辺 で す 。
+tgt:	that 's about it .
+lex:	i 'm the light .
+bas:	the problem is the best of the way .
+
+34
+src:	夢 は 、 世界 一周 旅行 。
+tgt:	my dream is to take a round @-@ the @-@ world trip .
+lex:	dream is a world .
+bas:	the old man is a world of world .
+
+35
+src:	今夜 は 家 に つれ て い っ て く れ 。
+tgt:	please take me home tonight .
+lex:	let 's take a house in tonight .
+bas:	get up at home tonight .
+
+36
+src:	２ 日間 ベッド に い な く て は な ら な かっ た 。
+tgt:	i have had to stay in bed for two days .
+lex:	i had no choice to the more .
+bas:	i had to have been to bed with two .
+
+37
+src:	消防 士 は あっ と い う 間 に 火 を 消 し た 。
+tgt:	the firemen had the fire out in no time .
+lex:	the baby was put to the fire .
+bas:	the crowd made a great deal of the way to the truth .
+
+38
+src:	あなた の 傘 を 借り て い い で す か 。
+tgt:	can i borrow your umbrella ?
+lex:	what 's your umbrella ?
+bas:	do you want your umbrella ?
+
+39
+src:	明日 雨降り なら 私 は 家 に い ま す 。
+tgt:	i will stay home if it rains tomorrow .
+lex:	i 'm house to come tomorrow .
+bas:	i 'm home tomorrow .
+
+40
+src:	彼女 が 最後 に ゴール し た 人 で す 。
+tgt:	she was the last to cross the finishing line .
+lex:	she is a man of the last person .
+bas:	i 'm sorry to the best .
+
+41
+src:	写真 ほど 鮮明 な もの は な い 。
+tgt:	nothing is more vivid than a picture .
+lex:	nothing is not as such as picture .
+bas:	nothing is not as a as important as you are .
+
+42
+src:	減税 は しばしば 経済 を 刺激 する 重要 な 財政 政策 手段 と し て 使 わ れ る 。
+tgt:	tax cuts are often used as a major fiscal tool to stimulate the economy .
+lex:	the old thing is used to the means of the economy .
+bas:	the concert is made to the number of order to put the economy is to the full of order to put the economy .
+
+43
+src:	橋 が 圧力 で 落ち た 。
+tgt:	the bridge crashed under the pressure .
+lex:	the bridge fell down in the light .
+bas:	the bridge was caught in the last year .
+
+44
+src:	私 は その 事実 を 十分 よく 知 っ て い る 。
+tgt:	i know the facts well enough .
+lex:	i know the fact enough .
+bas:	i know the fact enough .
+
+45
+src:	彼 の 後 を 継 ぐ だけ の 能力 の あ る 人物 を 見つけ る の は 容易 で は な い だ ろ う 。
+tgt:	it won 't be easy to find someone capable of taking his place .
+lex:	it is not easy to find the matter of his beautiful .
+bas:	it 's not easy to be a man of being a good time at his own after time .
+
+46
+src:	私 は 一 番 列車 に 間に合 う よう に 急 い だ 。
+tgt:	i hurried in order to catch the first train .
+lex:	i hurry to the train to the train .
+bas:	i 'm going to get the train at the train .
+
+47
+src:	私 は もはや 彼 の なまけ を 我慢 出来 な い 。
+tgt:	i cannot put up with his idleness any longer .
+lex:	i can 't put him to do it .
+bas:	i can 't stand his friend .
+
+48
+src:	彼女 は 叔母 に 似 て い る 。
+tgt:	she resembles her aunt .
+lex:	she takes after her aunt .
+bas:	she is as a aunt .
+
+49
+src:	彼 は い い 給料 を もら っ て い る 。
+tgt:	he earns a good salary .
+lex:	he has been up his salary salary .
+bas:	he has a good news .
+
+50
+src:	歌 を 歌 っ て い る 少年 は 私 の 弟 で す 。
+tgt:	the boy singing a song is my brother .
+lex:	the boy sing to sing , the boy is my brother .
+bas:	the boy is my brother .
+
+51
+src:	彼女 は ベッド の 上 に うつ伏せ に 倒れ て い た 。
+tgt:	she was lying face down on the bed .
+lex:	she was fell to the bed on the bed .
+bas:	she was on the air of the air .
+
+52
+src:	急 い で する 事 が あ る 。
+tgt:	i have an urgent matter to attend to .
+lex:	there is a hurry in hurry .
+bas:	there is a good mind .
+
+53
+src:	私 は 、 ストライキ の ため に 、 旅行 を 中止 し な けれ ば な ら な かっ た 。
+tgt:	i had to cancel my trip on account of the strike .
+lex:	i had to put travel for the travel for the strike .
+bas:	i had to put out the trip at the meeting .
+
+54
+src:	だれ で も が み な 正直 と は 限 ら な い 。
+tgt:	everyone is not honest .
+lex:	everyone is not always wrong with the someone .
+bas:	nobody has no sense of mind .
+
+55
+src:	もし 私 が 君 の 立場 なら 、 彼 を 手伝 っ て や る だ ろ う に 。
+tgt:	if i were in your place , i would lend him a hand .
+lex:	if i have your , you will help him .
+bas:	i 'll help you as well as i will help him .
+
+56
+src:	早起き の 習慣 を 養 う よう に し なさ い 。
+tgt:	you should cultivate the habit of getting up early .
+lex:	please support the habit to the hill .
+bas:	do your a lot of coffee to your health .
+
+57
+src:	君 に 会 っ た こと を 私 は 決して 忘れ ま せ ん 。
+tgt:	i will never forget seeing you .
+lex:	i don 't forget to see you .
+bas:	i can 't forget you to see you .
+
+58
+src:	カナダ へ 行 っ た こと が あ り ま す か 。
+tgt:	have you ever been to canada ?
+lex:	have you ever been to canada ?
+bas:	have you ever been to the movies ?
+
+59
+src:	バス の 前 の ほう は す い て い た 。
+tgt:	the front of the bus was not crowded .
+lex:	the bus was bus in the bus .
+bas:	the bus was full of the bus .
+
+60
+src:	彼 は 出かけ た 先々 で 歓迎 さ れ た 。
+tgt:	he was welcomed wherever he went .
+lex:	he was welcome by the go .
+bas:	he was born in the world .
+
+61
+src:	彼 は 自分 が 何 を 話 し て い る か を 時々 忘れ て しま う 。
+tgt:	he sometimes forgets what he was talking about .
+lex:	he will have something to tell what you talking .
+bas:	he has been looking for what he said .
+
+62
+src:	彼女 は その 仕事 を する 気分 で は な い 。
+tgt:	she is in no humor for task .
+lex:	she is not to do the work .
+bas:	she is not to do the work .
+
+63
+src:	私 は 野球 が 好き だ 。
+tgt:	i like baseball .
+lex:	i like baseball baseball .
+bas:	i like baseball baseball .
+
+64
+src:	その 名 の 人 は 学籍 簿 に 載 っ て ま せ ん 。
+tgt:	no person by that name is listed in the register of the school .
+lex:	the name of the name is carrying to the same .
+bas:	the name is too small to be in the old man .
+
+65
+src:	収穫 が もっと 悪 く な れ ば 、 飢饉 が 起こ る か も 知れ な い 。
+tgt:	if the harvest gets any worse , there could be a famine .
+lex:	if you can harvest the chance , you can 't happen the famine .
+bas:	if it will be more than more , i can 't get if you can get if you have a lot of .
+
+66
+src:	父 は 私 が 彼 に 対 し て 失礼 な 言動 を と っ た とき 、 怒り で 顔 が 真っ赤 に な っ た 。
+tgt:	father went red with anger when i behaved rudely towards him .
+lex:	father had already been in the middle of the sun , and i got a teacher .
+bas:	my father was put on him when i was a little angry .
+
+67
+src:	彼 は 山 の 頂上 に 立 っ て い ま し た 。
+tgt:	he was standing at the top of the mountain .
+lex:	he was standing with the top of the mountain .
+bas:	he was standing at the mountain of the mountain .
+
+68
+src:	私 たち みんな 自転 車 に 乗 る の が 好き で す 。
+tgt:	we all like cycling .
+lex:	we like to have a bicycle on our bicycle .
+bas:	we like to be a bicycle .
+
+69
+src:	赤ん坊 は よく 転 ぶ 。
+tgt:	babies often fall down .
+lex:	the baby is often often often often often often up .
+bas:	the baby is familiar with a lot of .
+
+70
+src:	その 質問 は 難し すぎ て 答え られ な かっ た 。
+tgt:	the question was too difficult to answer .
+lex:	the question was too difficult to answer .
+bas:	the question was too difficult to be a little .
+
+71
+src:	彼女 は 教師 の よう に 見え る 。
+tgt:	she looks like a teacher .
+lex:	she looks like a teacher .
+bas:	she looks her her mind .
+
+72
+src:	ジョーダン さん は 「 授業 に 出 て い な かっ た の で す か 」 と たずね た 。
+tgt:	&quot; weren 't you there ? &quot; asked mr jordan .
+lex:	mr mr mr the mother was not when i had been in good class .
+bas:	the mr mr mr mr mr jones was when &quot; i was a student .
+
+73
+src:	「 ほか に 何 か 要 り ま す か 」 「 それ だけ で 結構 で す 」
+tgt:	&quot; anything else ? &quot; &quot; no , that 's all . &quot;
+lex:	&quot; i am glad to be any . &quot;
+bas:	&quot; what do you do with a ? &quot; &quot; &quot; i 'm going to him . &quot;
+
+74
+src:	気 苦労 が 彼 の 体 に 響 い た 。
+tgt:	worry affected his health .
+lex:	the more of the things was a month .
+bas:	the more
+
+75
+src:	彼 は それ を 詳し く 説明 し だ し た 。
+tgt:	he explained it at length .
+lex:	he explained it to his account .
+bas:	he was a lot of money in the it .
+
+76
+src:	「 元気 を 出 し なさ い 」 と 彼女 は 私 に 言 い ま し た 。
+tgt:	&quot; cheer up , &quot; she said to me .
+lex:	&quot; i 'm sorry to get myself &quot; . &quot; she said .
+bas:	&quot; please tell me when she was next . &quot;
+
+77
+src:	本当 を 言 う と 、 コンピューター に は 詳し く な い の で す 。
+tgt:	i 'm not really familiar with computers .
+lex:	what a true , i don 't have a lot of money .
+bas:	it is not easy to be a good idea .
+
+78
+src:	ワイン を もっと 冷や し た い 。
+tgt:	i want to chill the wine more .
+lex:	i want to ask the wine .
+bas:	i want to get more of the water more .
+
+79
+src:	彼女 は 機嫌 が 悪 い と い う の も 、 いつ も 地下 鉄 に 乗 り 遅れ 仕事 場 まで 歩 く 羽目 に な っ た から だ 。
+tgt:	she is in a temper , because she missed her usual train in the subway and had to walk to work .
+lex:	she is always because she was young , but she 's a walk to the party , she 's late to the party .
+bas:	she is always up to the work , but i always get up to the work .
+
+80
+src:	夕方 から 雨 だ って い っ て い た よ 。
+tgt:	it said rain from this evening .
+lex:	it was a rain of rain since you 've been .
+bas:	it was a rain at the evening .
+
+81
+src:	あす の 朝 まで に は 一面 の 銀 世界 に な っ て い る だ ろ う 。
+tgt:	by tomorrow morning all the world will have been covered with snow .
+lex:	the tomorrow will be world world by the morning .
+bas:	it will be been to the world of the next day .
+
+82
+src:	知 っ て い れ ば 教え て あげ た ん だ けど 。
+tgt:	had i known it , i would have told you .
+lex:	i 've been to know what you know .
+bas:	i 've got a tell you to know .
+
+83
+src:	無知 は 幸福 。
+tgt:	ignorance is bliss .
+lex:	i 'm happy .
+bas:	i 'm sorry .
+
+84
+src:	せっかく 弁護 士 の 資格 が あ る の に もったい な い 。
+tgt:	what a waste of your lawyer qualifications !
+lex:	there is no sense of the lawyer .
+bas:	there is no one of the examination in the lawyer .
+
+85
+src:	少な い 収入 を でき る 限り いか し た い 。
+tgt:	make the best of your small income .
+lex:	i want to can get a few income .
+bas:	i want to put a lot of income in the old income .
+
+86
+src:	いつ か あなた を 訪問 し て も い い で す か 。
+tgt:	may i call on you some day ?
+lex:	may i visit your own ?
+bas:	may i visit you for ?
+
+87
+src:	私 は ここ に とどま る べ き か ロンドン へ 行 く べ き か 分か ら な かっ た 。
+tgt:	i didn 't know whether to stay here or go to london .
+lex:	i had to stay here to stay here .
+bas:	i had to have to have to have to you to you here .
+
+88
+src:	ダン は よく お 母 さん に しか ら れ る 。
+tgt:	dan is often scolded by his mother .
+lex:	the old woman is only only mother mother .
+bas:	the crowd will be more than my mother .
+
+89
+src:	ジョージ は とても 話 好き だ 。
+tgt:	george is quite talkative .
+lex:	george likes very fond .
+bas:	what 's a very story !
+
+90
+src:	システム が 作動 し な い 場合 が あ る 。
+tgt:	there are cases where the system doesn 't go .
+lex:	there is no one of success .
+bas:	the trees has no idea of a little .
+
+91
+src:	彼女 は 毎週 １ 回 映画 を 見 に 行 く 。
+tgt:	she goes to the movies once a week .
+lex:	she went to see a see around the company .
+bas:	she goes to see the movies once a month .
+
+92
+src:	彼 は とって も やさし い よ 。
+tgt:	he is fine and gentle .
+lex:	he is a kind of easy .
+bas:	he is good at any good .
+
+93
+src:	私 は ほとんど １８０ センチ で す 。
+tgt:	i am almost 180 centimeters tall .
+lex:	i 'm almost finished the almost .
+bas:	i 'm a little more .
+
+94
+src:	彼 は 母親 に 似 て い る 。
+tgt:	he resembles his mother .
+lex:	he is familiar to her mother .
+bas:	he is a good mother .
+
+95
+src:	東京 は だんぜん 日本 で 一番 大き い 都市 で す 。
+tgt:	tokyo is by far the largest city in japan .
+lex:	tokyo is the best cities in japan .
+bas:	tokyo is the best run in japan .
+
+96
+src:	出世 し た い の なら 、 努力 を おそれ て は な ら な い 。
+tgt:	if you wish to get on in the world , you must not shrink from effort .
+lex:	i don 't like efforts , and you are on effort .
+bas:	i have no effort for help .
+
+97
+src:	「 まだ 浅 い ね 。 足 とど く 」 「 結構 遠浅 だ な 。 よ つば も まだ 足 つ く だ ろ 」
+tgt:	&quot; it 's still shallow , eh . my feet still touch the bottom . &quot; &quot; it 's quite a shallow beach . yotsuba , you can still touch the bottom can 't you ? &quot;
+lex:	&quot; &quot; &quot; i 'm still a word , &quot; i 'm afraid it is still a short of a good place . &quot;
+bas:	
+
+98
+src:	私 の お じい ちゃん は 私 が 大学 に 行 く こと を 望 ん で い る 。
+tgt:	my grandfather hopes that i will enter college .
+lex:	my old white is eager to college .
+bas:	my mind is going to go to college .
+
+99
+src:	ラスベガス が い る と 時間 が 経 つ の を 忘れ る 。
+tgt:	it 's easy to lose track of time when you are in las vegas .
+lex:	it 's a time that time is a time .
+bas:	i have a time when i had a time .
+
+100
+src:	彼 は 非常 な 剣幕 で 私 を にらみ付け た 。
+tgt:	he glared at me fiercely .
+lex:	he was very much for a very old .
+bas:	he made me a very good way .
+
+101
+src:	間 の 垣根 が 恋 を いっそう 燃え立 た せ る 。
+tgt:	a fence between makes love more keen .
+lex:	the difference between between the between of the between between the best of the rain .
+bas:	the two of the company have a large set in the future .
+
+102
+src:	キャロライン は すべて の お 金 を 洋服 に 使 う ほど 愚か で は な い 。
+tgt:	caroline knows better than to spend all her money on clothes .
+lex:	the old woman is not as big as all the students use .
+bas:	the old man is not to speak money for the moment .
+
+103
+src:	彼 は 駐日 アメリカ 大使 に 命 じ られ た ばかり で す 。
+tgt:	he has just been appointed the u.s. ambassador to japan .
+lex:	he is just to be a good @-@ @-@ america in america .
+bas:	he is made up in america .
+
+104
+src:	彼女 なら 当然 選 び そう な 人 と 彼女 は 結婚 し た 。
+tgt:	she married to the kind of man you would expect her to pick .
+lex:	she got married of her who .
+bas:	she was married with her .
+
+105
+src:	昨日 通り で 友人 に 会 っ た 。
+tgt:	i met my friend on the street .
+lex:	i met friend in the street yesterday .
+bas:	i met my friend yesterday .
+
+106
+src:	お 酒 を 飲 む と 影響 が 出 る もの だ 。
+tgt:	liquor will have an effect on a person .
+lex:	i used to have a good time to drink your wine .
+bas:	you are to have a good drink .
+
+107
+src:	君 を 信頼 し て い る 。
+tgt:	i believe in you .
+lex:	you look talking .
+bas:	i 'm looking for you .
+
+108
+src:	我々 の 列車 は 時速 ２００ キロ で 走 っ た 。
+tgt:	our train went at 200 kilometers an hour .
+lex:	our train ran on the other side .
+bas:	our train ran to the same mistake .
+
+109
+src:	私 たち は 泣 い て い る の 。
+tgt:	we are crying .
+lex:	we are crying .
+bas:	we are looking at all .
+
+110
+src:	彼女 は 息 を 飲 ん だ 。
+tgt:	she caught her breath .
+lex:	she drink breath .
+bas:	she put a cold .
+
+111
+src:	君 たち は 大人 に な る まで タバコ を 吸 っ て は いけ な い 。
+tgt:	you must not smoke till you grow up .
+lex:	you must not smoke to the smoking .
+bas:	you must not smoke until you will be .
+
+112
+src:	彼 は たばこ を 一 日 一 本 に 減ら し て い っ た 。
+tgt:	he tapered off to one cigarette a day .
+lex:	he took a book on a day .
+bas:	he was put out of a day .
+
+113
+src:	貴殿 の 娘 さん は 麻薬 漬け で す 。
+tgt:	your daughter 's on drugs .
+lex:	the daughter of the land is a great woman .
+bas:	the number of the woman is a good idea .
+
+114
+src:	彼女 を その 任務 に 就け よう 。
+tgt:	let 's put her in charge of that .
+lex:	let me have her to the light .
+bas:	let me give her her .
+
+115
+src:	ある 旅行 会社 が 我々 の 旅行 の 手配 を 全部 し て くれ た 。
+tgt:	a travel agent arranged everything for our trip .
+lex:	a trip of the trip gave us our trip .
+bas:	the children were made up of our trip .
+
+116
+src:	彼女 が 息子 を 自慢 する の も もっとも だ 。
+tgt:	she may well be proud of her son .
+lex:	she is a good people to proud her son .
+bas:	she is a good son of son .
+
+117
+src:	痛み が 右脚 に 走 り ま す 。
+tgt:	the pain shoots into my right leg .
+lex:	pain is running in the middle of the original .
+bas:	the crowd running in the evening .
+
+118
+src:	参加 者 の リスト は 次 の とおり で す 。
+tgt:	the list of participants is as follows .
+lex:	the part of the fact is next next next .
+bas:	the matter of the box is next to the best .
+
+119
+src:	彼女 は 休日 に な る と よく 買い物 に 行 き ま す 。
+tgt:	she will often go shopping on holidays .
+lex:	she goes shopping to the shopping .
+bas:	she will go shopping .
+
+120
+src:	昨日 の 午後 は ずっと 、 私 の 部屋 を 掃除 する の に 費や し た 。
+tgt:	i spent all yesterday afternoon cleaning my room .
+lex:	yesterday of my room , i 've got to my room .
+bas:	my house was a big time to put my room .
+
+121
+src:	その 機械 は いつ も どこ か 故障 ばかり し て い る 。
+tgt:	something is always going wrong with the machine .
+lex:	the machine is always finding fault .
+bas:	the machine always happen with everyone .
+
+122
+src:	焼き肉 の 火 加減 を 見 なさ い 。
+tgt:	please check if the meat is being roasted at the right heat .
+lex:	look at the fire , look !
+bas:	look at the right of the city .
+
+123
+src:	彼女 に 結婚 し て くれ な い か と 言 っ たら 彼女 は 承知 し て くれ た 。
+tgt:	i asked her to marry me and she accepted .
+lex:	she said she was married , she made her .
+bas:	she was kind enough to come to her .
+
+124
+src:	本当 の こと を おっしゃ っ て いただけ ま せ ん か 。
+tgt:	would you be kind enough to tell me the truth ?
+lex:	could you have a true ?
+bas:	can you tell me what you mean ?
+
+125
+src:	彼 の 父 は 今朝 息 を 引き取 り ま し た 。
+tgt:	his father breathed his last this morning .
+lex:	his father was full of this morning .
+bas:	his father was put up this morning .
+
+126
+src:	彼女 は 自殺 を し よう と し た 。
+tgt:	she tried to commit suicide .
+lex:	she tried to have a box .
+bas:	she tried to put the father .
+
+127
+src:	彼 は 森 で 迷 っ た 。
+tgt:	he lost his way in the woods .
+lex:	he lost his woods .
+bas:	he got into a woods .
+
+128
+src:	妻 が 電話 し て き た ら 、 私 は 重要 な 会議 中 で 出 られ な い と 言 っ て くださ い 。
+tgt:	if my wife calls , just tell her i 'm in an important meeting and cannot be disturbed .
+lex:	if my wife is , please say , please say .
+bas:	if i , i would be sure to get out in the meeting .
+
+129
+src:	私 たち は 健康 に 有害 な 食品 を 知 ら ず に 食べ て い る 事 が よく あ る 。
+tgt:	we often eat foods which are harmful to our health without knowing it .
+lex:	we often eat to know the health of the health .
+bas:	we have a good time at the health of health of health .
+
+130
+src:	料理 の レパートリー は 限 ら れ て る の 。
+tgt:	i don 't know how to cook too many things .
+lex:	cooking of cooking are always off .
+bas:	the ambition is in the most of success .
+
+131
+src:	この 本 は 何 の 項目 に 入 り ま す か 。
+tgt:	what heading does this book come under ?
+lex:	what 's this book on the next car ?
+bas:	what is the book on this book ?
+
+132
+src:	彼 は パリ 出会 っ た 女性 と 結婚 する 決心 を し た 。
+tgt:	he finally made up his mind to marry the girl he had met in paris .
+lex:	he made his mind to his paris .
+bas:	he made up her mind to get up with the woman .
+
+133
+src:	彼 は 彼女 に うるさ く 質問 し て 困 ら せ た 。
+tgt:	he bothered her with questions .
+lex:	he made her to ask for her once .
+bas:	he was a questions in her .
+
+134
+src:	最寄り の 地下 鉄 へ 行 く 道 を 教え て くれ ま せ ん か 。
+tgt:	can you direct me to the nearest subway station ?
+lex:	can you tell me the way to the nearest way ?
+bas:	will you tell me the way to the museum ?
+
+135
+src:	彼 は 結局 は 一流 の 小説 家 で あ っ た 。
+tgt:	after all is said and done , he was a first @-@ rate novelist .
+lex:	he was free to a novel .
+bas:	he was a novel in his speech .
+
+136
+src:	運転 者 は 交通 規則 を 守 ら ね ば な ら な い 。
+tgt:	drivers must observe the traffic rules .
+lex:	the driver must keep the rules rules .
+bas:	the driver must keep a traffic to the traffic traffic .
+
+137
+src:	彼 は 政治 家 と い う より も むしろ 商人 だ 。
+tgt:	he is not so much a politician as a merchant .
+lex:	he is a girl student .
+bas:	he is not so much a little to be a politician .
+
+138
+src:	彼 は 私 の 提案 に 同意 し た 。
+tgt:	he acceded to my proposal .
+lex:	he reluctantly agreed to my proposal .
+bas:	he was on my proposal .
+
+139
+src:	自分 の 考え を 僕 に 押しつけ る な 。
+tgt:	don 't press your opinion on me .
+lex:	don 't give me a idea of thinking .
+bas:	don 't make my idea .
+
+140
+src:	彼 は テニス を し た 。
+tgt:	he played tennis .
+lex:	he playing tennis tennis .
+bas:	he playing tennis .
+
+141
+src:	薄汚 い 生まれ た 故郷 の 街 に 戻 っ て き た 。
+tgt:	back into the hole where i was born .
+lex:	i came to the town of the hometown .
+bas:	i got up to the garden .
+
+142
+src:	車 は ガードレール に 衝突 し た 。
+tgt:	the car ran into a guardrail .
+lex:	car has been on the table .
+bas:	the car was full of a good time .
+
+143
+src:	注意 し て い て も 事故 は いろいろ 起き て い ま す から ね 。
+tgt:	there are enough accidents without asking for one .
+lex:	it 's a lot of accident on the teacher .
+bas:	all the accident is different from what he is .
+
+144
+src:	彼 の 教え子 の 中 で その 試験 に 合格 し た 者 は い な かっ た 。
+tgt:	neither of his students passed the exam .
+lex:	there was no objection in his head in the test .
+bas:	he didn 't have to pass the exam in his examination .
+
+145
+src:	私 の テープ レコーダー は 君 の アンプ に も つなげ られ る 。
+tgt:	my tape recorder is compatible with your amplifier .
+lex:	my mother can be good at your side .
+bas:	my dream is in your own way .
+
+146
+src:	彼 は 列車 事故 で けが を し た 。
+tgt:	he was injured in a railway accident .
+lex:	he put his enough in the train .
+bas:	he made a great at the train .
+
+147
+src:	バッター は 空振り の 三振 を し た 。
+tgt:	the batter struck out swinging .
+lex:	the old man made a big pay .
+bas:	the crowd made a big light .
+
+148
+src:	死 は 万 人 に 来る べ き もの 、 すべて 人 は 死 す べ き もの な り 。
+tgt:	death is certain to all , all shall die .
+lex:	death should be dead of a few person .
+bas:	you should not come to a large person .
+
+149
+src:	今日 は 楽し かっ た 。
+tgt:	i really enjoyed myself tonight .
+lex:	it was enjoy today today .
+bas:	i had a good time today .
+
+150
+src:	彼 が 来 た とき は 私 は その 手紙 を 書 き 終え て い た 。
+tgt:	i had written the letter when he came .
+lex:	when he came to write the letter when he came to write .
+bas:	when he came came , i had already finished him .
+
+151
+src:	そして 、 ようやく その 警官 は 腕 を 下げ た 。
+tgt:	then , at last , the policeman lowered his arm .
+lex:	the policeman met a arm .
+bas:	the policeman took the road .
+
+152
+src:	我々 は 何 も 食べ ず に 何 時間 も 働 き 続け た 。
+tgt:	we kept on working for hours without eating anything .
+lex:	we had a time for hours to eat .
+bas:	we went to the more than any hours .
+
+153
+src:	私 達 は 、 自ら の 問題 に つ い て 話し合 っ た 。
+tgt:	we talked over our problems .
+lex:	we were discuss about the information .
+bas:	we got a big problem in the world .
+
+154
+src:	私 たち は とても 活発 な 討論 を し た 。
+tgt:	we had a very vigorous debate .
+lex:	we got a very old .
+bas:	we made a great deal of very much .
+
+155
+src:	秋 より 春 の ほう が 好き だ 。
+tgt:	i prefer spring to fall .
+lex:	we like spring better than autumn .
+bas:	i like to have a lot of people to get up .
+
+156
+src:	ここ から ホテル まで 徒歩 で 行 く に は 遠 すぎ ま す 。 タクシー に お 乗 り なさ い 。
+tgt:	it is too far to go on foot from here to the hotel . better take a taxi .
+lex:	i am too far to go here by the hotel .
+bas:	get out from here to the hotel .
+
+157
+src:	みんな いつ も トニー を ほめ る 。
+tgt:	everyone always speaks well of tony .
+lex:	everybody always takes tony .
+bas:	everybody always always live their mind .
+
+158
+src:	後者 の 能力 は すべて 遺伝 に よ っ て 私 達 に 伝え られ る 。 つまり 、 親 から 受け つ ぐ 遺伝 子 を 通 し て 私 たち は そう し た 能力 を 受け取 る の で あ る 。
+tgt:	all of these abilities are passed on to us by genetic transmission ; we receive them by way of the genes that we inherit from our parents .
+lex:	
+bas:	the first child of the truth of the truth of the is , we have a good time to be in the street .
+
+159
+src:	言い換え れ ば 、 私 は 彼 と 働 き た く な い 。
+tgt:	in other words , i don 't like to work with him .
+lex:	if i have been worked , i don 't want him to work .
+bas:	if i could not come , i don 't want him to work .
+
+160
+src:	マイク は なん と か その スーツケース を 一人 で 運 ん だ 。
+tgt:	mike managed to carry the suitcase by himself .
+lex:	mike carried across the alone and carried alone .
+bas:	mike has been reading the way to the patient .
+
+161
+src:	私 たち は スミス さん が サイン し た 領収 書 が 必要 で す 。
+tgt:	we need the receipt mr smith signed .
+lex:	we need to have a write with mr mr signature .
+bas:	we have a good time at the sight .
+
+162
+src:	彼 等 は トランプ を し な い か と 私 を 誘 っ て くれ た 。
+tgt:	they invited me to play cards .
+lex:	they were looking forward to have a cards someday .
+bas:	they were not playing playing soon .
+
+163
+src:	私 たち が 必要 と する 情報 は 必ず しも 手 に 入 ら な い 。
+tgt:	the sort of information we need is not always available .
+lex:	we are to get up to the most .
+bas:	we cannot be sure to need to need .
+
+164
+src:	老 婦人 が 渡 る の を 助け た 。
+tgt:	i helped an old lady across .
+lex:	i help the old lady .
+bas:	the old lady help her .
+
+165
+src:	何 か 、 全部 、 こじつけ って 感じ が する ん だ けど ・ ・ ・ 。
+tgt:	somehow , all those reasons sound rather far fetched .
+lex:	what something is sure to do , i 'd like to have a good party .
+bas:	what a person you are !
+
+166
+src:	彼 に 財産 管理 を 任せ た 。
+tgt:	i entrusted my property to him .
+lex:	he has been four of a fortune .
+bas:	i got him a taxi .
+
+167
+src:	旅行 を 計画 する 場合 は 、 家族 全員 の 希望 を 考慮 す べ き だ 。
+tgt:	we must take into account the wishes of all the family in planning a trip .
+lex:	you should make your hopes to plan and members .
+bas:	the plan you should make his family and ought .
+
+168
+src:	彼 は 中一 の 時 学校 に 来 な く な っ た 。
+tgt:	he dropped out when he was in the 7th grade .
+lex:	he came to school in school .
+bas:	he came to come at school .
+
+169
+src:	クリスマス は 新し い おもちゃ を うりだ す い い 機会 だ 。
+tgt:	christmas is a good time to market new toys .
+lex:	christmas is a chance to a new toy .
+bas:	the new woman is a new offer .
+
+170
+src:	私 は 午前 中 ずっと 手紙 を 書 い て い ま し た 。
+tgt:	i have been writing letters all morning .
+lex:	i was written by the morning .
+bas:	i was looking at the letter by the morning .
+
+171
+src:	その ホテル は 山 の ふもと に あ り ま す 。
+tgt:	the hotel is at the foot of a mountain .
+lex:	the hotel is a mountain of fuji .
+bas:	the hotel is in the mountain of the mountain .
+
+172
+src:	明日 は 彼 の ところ に 泊ま る つもり だ 。
+tgt:	i 'm putting up with him tomorrow .
+lex:	tomorrow is going to his way .
+bas:	tomorrow will be a man for his own tomorrow .
+
+173
+src:	今 から ２５ 年 後 に は 、 就業 者 ２人 に つ き 退職 者 １人 の 割合 に な る だ ろ う 。
+tgt:	twenty @-@ five years from now there will be one retired person for each two working .
+lex:	after the age of the year , we will be a good character of the students .
+bas:	after a year , we will be proud of the two of the two days .
+
+174
+src:	彼女 は 幸せ で あ っ た よう だ 。
+tgt:	she seems to have been happy .
+lex:	she seems to be happy .
+bas:	she seems to have been in happy .
+
+175
+src:	日本 の 主要 作物 は 米 で あ る 。
+tgt:	the main crop of japan is rice .
+lex:	the japanese bob is rice .
+bas:	japan is the last wind .
+
+176
+src:	患者 と 名 の つく すべて の 人 。
+tgt:	everyone , whether an actual or potential patient .
+lex:	man is a good student of the patient .
+bas:	the man is kind of the people .
+
+177
+src:	私 は 誰 な の だ ろ う か 。
+tgt:	who am i ?
+lex:	what is my everyone ?
+bas:	what 's the best ?
+
+178
+src:	いつ も の 場所 で 待 っ て い ま す 。
+tgt:	i 'll be waiting for you at the usual place .
+lex:	i always wait in the place of the place .
+bas:	i always wait in the next days .
+
+179
+src:	その 村 と 我々 の 町 は 橋 で つなが っ て い ま す 。
+tgt:	the village is connected with our town by a bridge .
+lex:	our city is just across the bridge .
+bas:	our city is singing in the bridge .
+
+180
+src:	十 八 禁 な の で 要 注意 ！
+tgt:	warning - 18 + only .
+lex:	what 's the right please !
+bas:	it 's a good time for the weather .
+
+181
+src:	私 は 明日 アメリカ へ 出発 する 予定 で す 。
+tgt:	i am leaving for the united states tomorrow .
+lex:	i have been to leave for america tomorrow .
+bas:	i 'm going to america tomorrow morning .
+
+182
+src:	ギリシャ 語 は 覚え にく い 。
+tgt:	greek is difficult to learn .
+lex:	the word is too remember .
+bas:	the word is not good .
+
+183
+src:	私 は 音楽 の 勉強 に オーストリア へ 行 き た い 。
+tgt:	i would like to go to austria in order to study music .
+lex:	i want to go to music to music .
+bas:	i want to go to music .
+
+184
+src:	ボーナス を もら っ た 。
+tgt:	i received my bonus .
+lex:	i got a big job .
+bas:	i had a good time .
+
+185
+src:	私 は 私 の ジョーク を 聞 い て 笑 う 時 の 彼女 が 好き だ 。
+tgt:	i like the way she laughs at my jokes .
+lex:	i like her at the foot of my head .
+bas:	i like her to hear my head .
+
+186
+src:	自分 の 名前 が 後ろ から 呼 ば れ る の が きこえ た 。
+tgt:	i heard my name called from behind me .
+lex:	i had a name of my name .
+bas:	my name was a big distance .
+
+187
+src:	彼女 は 審美 眼 を 持 っ て い る 。
+tgt:	she has an eye for the beautiful .
+lex:	she has a good house .
+bas:	she has a good future .
+
+188
+src:	その 大きな 醜 い 木 が その 家 の 美観 を 損ね て い る 。
+tgt:	the big ugly tree destroys the beauty of the house .
+lex:	the big tree is living from the house .
+bas:	the big tree is at home a house .
+
+189
+src:	彼女 は １ 週間 前 に 病気 に な っ た 。
+tgt:	she fell ill a week ago .
+lex:	she became sick before a week before a week .
+bas:	she came to her illness before long .
+
+190
+src:	彼 は ざっくばらん な 人柄 な の で 話 し やす い 。
+tgt:	he is a frank person and easy to talk to .
+lex:	he is subject to speak in the don of a little .
+bas:	he is a good person of his mind .
+
+191
+src:	庭 は 柵 で 小道 と 仕切 ら れ て い る 。
+tgt:	the garden is railed off from the path .
+lex:	the garden is made of the same as a matter .
+bas:	the garden is made in the garden and said .
+
+192
+src:	君 の 写真 が 欲し い の で す が 。
+tgt:	i would like your picture .
+lex:	i want you to do with you .
+bas:	i want you to picture .
+
+193
+src:	彼 が 仕事 を 辞め る の も もっとも だ 。
+tgt:	he has every reason to quit his job .
+lex:	he is a good who to work to work .
+bas:	he is a good job .
+
+194
+src:	その 本 を もと あ っ た 所 へ 置 き なさ い 。
+tgt:	put the book where you found it .
+lex:	put the book by you .
+bas:	come to the book .
+
+195
+src:	この 写真 を 見 る と 、 私 は 必ず 子供 の ころ を 思い出 す 。
+tgt:	i never see this picture without being reminded of my childhood .
+lex:	i saw this picture to see this picture , i can 't put up to the children .
+bas:	i 'm looking at this picture of a child .
+
+196
+src:	横浜 駅 へ 行 く の に は この 道 で い い の で す か 。
+tgt:	is this the right way to yokohama station ?
+lex:	what 's this road to the station ?
+bas:	where is this best station to the station ?
+
+197
+src:	彼 は スキー を し て い る とき に 、 転 ん で 腕 を 折 っ た 。
+tgt:	he fell and broke his arm while he was skiing .
+lex:	he put up his arm when he was skiing .
+bas:	he got his arm when he was a night .
+
+198
+src:	彼女 は 新車 を 見せ て くれ た 。
+tgt:	she gave me a look at her new car .
+lex:	she showed her car .
+bas:	she made a new car .
+
+199
+src:	マスタード を 別 に 持 っ て き て くださ い 。
+tgt:	i 'd like to have mustard on the side .
+lex:	please have another @-@ another another .
+bas:	please help yourself to the right .
+
+200
+src:	何 が 起こ ろ う と も 、 その 覚悟 は でき て い ま す 。
+tgt:	come what may , i 'm ready for it .
+lex:	what to happen , the year will be able to have to the year .
+bas:	what what what do you are .
+
+201
+src:	彼 は 北海道 に い た こと が あ る 。
+tgt:	he has been in hokkaido before .
+lex:	he has been better of his mind .
+bas:	he has been to be a good idea .
+
+202
+src:	彼 の 顔つき や 態度 に は 軽蔑 の 気持ち が 表れ て い た 。
+tgt:	his face and attitude showed the scorn he felt .
+lex:	his face was a feelings of feelings .
+bas:	the first feelings was a big watch in the face .
+
+203
+src:	ビル 以外 は みな 間に合 っ た 。
+tgt:	except for bill , they were all in time .
+lex:	bill was on the other .
+bas:	bill has come up at the last .
+
+204
+src:	たいてい の 親 は 自分 の 子供 の 将来 が 気 に な る もの で す 。
+tgt:	parents are usually concerned about their children 's future .
+lex:	most parents are looking about his children .
+bas:	the most children are in the future of his children .
+
+205
+src:	そんな 事 でき な い の あなた 知 っ て で しょ う 。
+tgt:	you know i can 't .
+lex:	i will know you what you can say .
+bas:	i 'll be sorry .
+
+206
+src:	ある 日 の こと 、 警察 が 娼婦 の 集団 を 手入れ し た 。 少女 も その 集団 の 一員 だっ た 。
+tgt:	one day , the police raided a whole group of prostitutes , and the girl was among them .
+lex:	the police was at the start of the start , the police was a nice of the city .
+bas:	the police was made a little for day and the other girl , the police was a little place .
+
+207
+src:	どちら の ご 出身 で す か ？
+tgt:	where do you come from ?
+lex:	what is either ?
+bas:	what is the correct ?
+
+208
+src:	それ で 形勢 が 変わ っ た 。
+tgt:	that altered the aspect of the case .
+lex:	it was a big affair in that .
+bas:	it was a man in the evening .
+
+209
+src:	私 は 背中 が 少し 痛 い 。
+tgt:	i 've got a bit of an ache in my back .
+lex:	i have a little pain .
+bas:	i have a little pain in my .
+
+210
+src:	父 の 成功 は 私 に 何 の 価値 も 無 い 。
+tgt:	my father 's success counts for nothing to me .
+lex:	my father is not rude .
+bas:	my father is not my best .
+
+211
+src:	私 は 空港 の 写真 を 持 っ て い ま す 。
+tgt:	i have a picture of an airport .
+lex:	i have a picture of the airport .
+bas:	i have a picture of my mind .
+
+212
+src:	君 は 何 を する つもり な の 。
+tgt:	what do you intend to do ?
+lex:	you will do what you will do .
+bas:	you are to have something to do .
+
+213
+src:	これ と あれ は 同じ 長 さ で す 。
+tgt:	this is as long as that .
+lex:	this is the same long .
+bas:	this is the same day .
+
+214
+src:	私 は 更 に ５０ ページ 読 ん だ 。
+tgt:	i read fifty pages further .
+lex:	i read fifty fifty fifty fifty fifty .
+bas:	i read a lot of fifty fifty fifty room .
+
+215
+src:	その 語 の 綴り を 間違 っ て 、 彼 は コンテスト に 失格 し た 。
+tgt:	his misspelling of that word eliminated him from the contest .
+lex:	he has been up in the middle of the word .
+bas:	he was looking at the street , and he was a good against him .
+
+216
+src:	数学 は 私 が 最も 勉強 し た く な い 教科 で す 。
+tgt:	math is the last subject that i want to study .
+lex:	mathematics is not to study hard .
+bas:	my sister is not studying hard for my study .
+
+217
+src:	彼 は 賢明 に 行動 し た 。
+tgt:	he has acted wisely .
+lex:	he made a act of his .
+bas:	he asked a long time .
+
+218
+src:	私 は 彼 を あっ と 言 わ せ て や り た い 。
+tgt:	i want to surprise him .
+lex:	i want to say him .
+bas:	i want to do him to do with him .
+
+219
+src:	冷た い 食事 は 、 避け て くださ い 。
+tgt:	you shouldn 't eat anything cold .
+lex:	please avoid in the room .
+bas:	please be sure to drink .
+
+220
+src:	彼 は それ を 笑 わ ず に い られ な かっ た 。
+tgt:	he couldn 't help laughing at it .
+lex:	he was not much to help it .
+bas:	he could not help it .
+
+221
+src:	グズグズ し て な い で さっさと 行動 しろ ！
+tgt:	quit lazing around and get moving !
+lex:	i 'm sorry to get out !
+bas:	i 'm not out of a bad mind .
+
+222
+src:	日本 企業 は 全て の 大陸 に 工場 を 設立 し て い る し 、 日本 の 銀行 は 世界 の 主要 な 経済 計画 の 大国 財政 的 な 援助 を し て い る 。
+tgt:	japanese companies have set up factories on every continent , and japanese banks help finance many of the world 's major economic programs .
+lex:	japanese is the japanese thing to world factory in public factory .
+bas:	japanese japanese and the japanese 's the most of the world of the world is not a small plan .
+
+223
+src:	やっと 帰 っ て き た ぞ ！
+tgt:	at last , we were home !
+lex:	i 'll come back .
+bas:	let 's get back at home .
+
+224
+src:	春 に は すべて の もの が 明る く 見え る 。
+tgt:	in spring everything looks bright .
+lex:	the spring looks like all and bright .
+bas:	there are a lot of everyone in the village .
+
+225
+src:	美由紀 は カメラ を 持 っ て い る 、 しかし 彼女 は それ が 好き で な い 。
+tgt:	miyuki has a camera , but she doesn 't like it .
+lex:	the old woman is not like a camera , but she doesn 't like it .
+bas:	but she is rich , but she is rich .
+
+226
+src:	ここ から 一番 近 い 薬局 は どこ で す か 。
+tgt:	where 's the nearest pharmacy ?
+lex:	where is the nearest ?
+bas:	where is the near here ?
+
+227
+src:	それ は 的外れ だ 。
+tgt:	that 's beside the point .
+lex:	it is a big affair .
+bas:	it 's a good time .
+
+228
+src:	バス を どの くらい お 待 ち で す か 。
+tgt:	how long have you been waiting for the bus ?
+lex:	how long are you waiting ?
+bas:	what 's the wait ?
+
+229
+src:	彼 は 突然 わっと 泣 き 出 し た 。
+tgt:	he burst into tears .
+lex:	he went out of laughter .
+bas:	he began to cry .
+
+230
+src:	トーマス は 事故 の ため に 仕事 を やり遂げ られ な かっ た 。
+tgt:	thomas could not carry out his task on account of an accident .
+lex:	the old man was not many work to the accident .
+bas:	the old man was not made a job for the accident .
+
+231
+src:	彼 は 我々 から 離れ て 立 っ た 。
+tgt:	he stood apart from us .
+lex:	he was standing from us .
+bas:	he was out of us .
+
+232
+src:	彼 は 時々 出張 する こと は 別 と し て あまり 旅 を し な い 。
+tgt:	he doesn 't travel much apart from occasional business trips .
+lex:	he can 't know the most of last night .
+bas:	he cannot be too much to do with a word .
+
+233
+src:	彼 は 体 を 心配 し て い る 様子 だっ た 。
+tgt:	he seemed worried about his health .
+lex:	he was worried about his health .
+bas:	he was a man of a man .
+
+234
+src:	彼女 は 胸 を どきどき さ せ て 、 その 手紙 を 読 ん だ 。
+tgt:	she read the letter with her heart beating fast .
+lex:	she read the letter and read the letter .
+bas:	she read the letter to her heart and read the letter .
+
+235
+src:	私 も 伊藤 さん に お 目 に かか れ て 光栄 で す 。
+tgt:	i 'm glad to meet you , too , mr ito .
+lex:	i 'm sorry to mr mr mr well .
+bas:	i am a great deal of my mind .
+
+236
+src:	彼 は こっそり ささや い た 。
+tgt:	he whispered slyly to me .
+lex:	he was a big nature .
+bas:	he was a man of a great come .
+
+237
+src:	あなた は 正し い こと が でき る と 信 じ て い ま す 。
+tgt:	i have faith in your ability to do the right thing .
+lex:	you can 't believe right .
+bas:	you can 't believe it .
+
+238
+src:	私 は 君 たち 兄弟 が テレビ に 出 て い て ビックリ し た 。
+tgt:	i was surprised at you and your brother appearing on tv .
+lex:	i was delayed to television tv .
+bas:	i got the way on tv .
+
+239
+src:	ちょっと 失礼 し て よ い で しょ う か 。
+tgt:	will you excuse me for just a moment ?
+lex:	will you have a few view ?
+bas:	may i have a little ?
+
+240
+src:	どうぞ 話 を 続け て 下さ い 。
+tgt:	go ahead with your story .
+lex:	please give me some story .
+bas:	please take care of speaking .
+
+241
+src:	彼 ら は 幼児 の 死亡 率 の 低 さ は 医学 の 進歩 の ゆえ と 考え た 。
+tgt:	they attributed the low death rate of infants to the progress of medicine .
+lex:	they thought of a lot of great people .
+bas:	they thought of a good idea of the table .
+
+242
+src:	深酒 は 体 に よ く な い 。
+tgt:	excessive drinking is destructive of our health .
+lex:	the old man is not good to go .
+bas:	the language is not to have a good opinion .
+
+243
+src:	彼 は 米 文学 に 精通 し て い る 。
+tgt:	he is at home in american literature .
+lex:	he is a hard of rice .
+bas:	he is a great help in the evening .
+
+244
+src:	人々 は 陰 で 彼 を 嘲笑 し た もの だっ た 。
+tgt:	people used to laugh at him behind his back .
+lex:	people used to get up with lunch .
+bas:	people had him in the club .
+
+245
+src:	彼 ら は 権限 を 剥奪 さ れ た 。
+tgt:	the men have been shorn of their power .
+lex:	they were held in their country .
+bas:	they were made up of the air .
+
+246
+src:	私 は 口 が きけ な かっ た 。
+tgt:	my tongue failed me .
+lex:	i was not so much .
+bas:	i was not a good idea .
+
+247
+src:	君 は 僕 の こと を 言 っ て い る の か 。
+tgt:	are you referring to me ?
+lex:	what are you talking to me ?
+bas:	what do you say that you are my ?
+
+248
+src:	彼女 が 部屋 に は い っ た とき 、 ささやき が 聞こえ た 。
+tgt:	there was a murmur when she entered the room .
+lex:	when she was the room , she heard a light .
+bas:	she was when she was a room .
+
+249
+src:	これ は 世界 の どの 橋 より も 長 い 。
+tgt:	this is longer than any other bridge in the world .
+lex:	this is a long time to world .
+bas:	this is a little than the bridge of the world .
+
+250
+src:	我々 は お 互い に 意見 が 一致 し た 。
+tgt:	we agreed among ourselves .
+lex:	we were all opinion to each other .
+bas:	we were all in the table .
+
+251
+src:	どっち が どっち な の か 分か ら な い 。
+tgt:	i don 't know which is which .
+lex:	i don 't know what to do .
+bas:	i don 't know what to do .
+
+252
+src:	パティー は 利口 な 学生 だ 。
+tgt:	patty is a smart student .
+lex:	the old students is students .
+bas:	the number of students are a great students .
+
+253
+src:	クリスティー の 推理 小説 は 断然 面白 い 。
+tgt:	christi 's mysteries are most decidedly interesting .
+lex:	the novel of the novel is good .
+bas:	the novel is very large .
+
+254
+src:	昨年 は 雨 が 多 かっ た 。
+tgt:	we had much rain last year .
+lex:	last year was a rain .
+bas:	the last day has many rain .
+
+255
+src:	ゆうべ 地震 を かん じ ま し た か 。
+tgt:	did you feel the earth shake last night ?
+lex:	did you don 't like earthquake ?
+bas:	did you put the ball ?
+
+256
+src:	気持ち は よく 分か る よ 。
+tgt:	i really feel for you .
+lex:	my feelings will be becoming .
+bas:	i 'll be a great at the feelings .
+
+257
+src:	彼 は 背 が 高 すぎ て 、 この 部屋 で は まっすぐ に 立て な い 。
+tgt:	he is too tall to stand straight in this room .
+lex:	he is too tall , but he is not angry in this room .
+bas:	he is too tall for his room .
+
+258
+src:	啓介 さん は 、 この お 屋敷 で 、 ずっと お 勉強 し て い る ん で す 。 いわゆる ホーム スクーリング と い う 形 で す ね 。
+tgt:	keisuke has always studied in this mansion . that style known as ' home schooling ' , right ?
+lex:	mr mr mr women , you 're going to study , and you 're in this country .
+bas:	mr jones is the best but i am studying hard . i 'm sorry .
+
+259
+src:	猟犬 は 熊 を 必死 に な っ て 追いかけ て い た 。
+tgt:	the hound was in full chase of the bear .
+lex:	the old man was wearing up to his speech .
+bas:	the crowd was made up of the table .
+
+260
+src:	人 は 互い の 家 を 詳し く 調べ る の が 大好き だ 。
+tgt:	people love to inspect each other 's houses .
+lex:	people are very investigate to have more house .
+bas:	man is a good at the students of their country .
+
+261
+src:	私 は 成績 を 上げ る よう 努力 し た 。
+tgt:	i made efforts to improve my grades .
+lex:	i efforts for a effort to take a lie .
+bas:	i tried to have been a good effort .
+
+262
+src:	彼 は 自分 の 悪評 を 一笑 に 付 し た 。
+tgt:	he laughed off his own bad reputation .
+lex:	he was show to his own job .
+bas:	he was studying over his own way .
+
+263
+src:	彼 は 私 に 長 い 物語 を 話 し て くれ た 。
+tgt:	he told me a long story .
+lex:	he told me a long story .
+bas:	he told me a long story .
+
+264
+src:	寒 く な り さえ し な けれ ば い い の で す 。
+tgt:	as long as it doesn 't get cold , it 's okay .
+lex:	i have to do it without cold .
+bas:	i have to go out .
+
+265
+src:	私 は その しきたり を よく 知 っ て い る 。
+tgt:	i am acquainted with the custom .
+lex:	i know the old woman .
+bas:	i know the big love .
+
+266
+src:	その 少年 は 自分 の 名前 さえ 書 く こと が でき な かっ た 。
+tgt:	the boy could not so much as write his own name .
+lex:	the boy could not have his name .
+bas:	the boy could not speak with his name .
+
+267
+src:	今日 で は ７０ 歳 以上 まで 生き る 人 は 多 い 。
+tgt:	nowadays many people live to be over seventy years old .
+lex:	the people will live to be years of the more years .
+bas:	it is many people to be in time for today .
+
+268
+src:	彼女 の 美し い 服 が 私 の 注意 を 引 い た 。
+tgt:	her beautiful dress drew my attention .
+lex:	her beautiful dress was too attention .
+bas:	her beautiful dress was a beautiful dress .
+
+269
+src:	朝食 後 、 出発 し ま しょ う 。
+tgt:	we shall start after breakfast .
+lex:	i 'll start after breakfast after breakfast .
+bas:	i 'll leave my breakfast after breakfast .
+
+270
+src:	私 は ときどき 仕事 を やめ た い 気 が する 。
+tgt:	at times i feel like quitting my job .
+lex:	i want to quit the work .
+bas:	i want to work a job .
+
+271
+src:	結果 は どう な り ま し た か 。
+tgt:	how did it come out ?
+lex:	what did you come to the result ?
+bas:	what did you do with the results ?
+
+272
+src:	あなた は 私 たち の 誰 から も 信頼 さ れ て い る 。
+tgt:	you are trusted by every one of us .
+lex:	you are all of our everyone .
+bas:	you are all right from us .
+
+273
+src:	その 報告 書 から １０ 代 の 多く の 子供 が アルコール 中毒 に かか っ て い る こと が 分か っ た 。
+tgt:	the report revealed that many teenagers are alcoholics .
+lex:	the old children know to the middle of the report .
+bas:	the more of the one of the book was gone to the middle of the river .
+
+274
+src:	彼 は シカゴ に 飛 ん だ 。 そして そこ で たまたま あ る 友人 に 会 っ た 。
+tgt:	he flew to chicago , where he happened to see a friend .
+lex:	he met his friend to the chicago .
+bas:	he met him in the sky .
+
+275
+src:	私 を 一人 に し て お い て くださ い 。
+tgt:	please leave me alone .
+lex:	please alone me alone .
+bas:	please help me to alone .
+
+276
+src:	田森 は 、 １９４５ 年 すなわち 第 二 次 世界 大戦 が 終わ っ た 年 に 生まれ た 。
+tgt:	tamori was born in 1945 , that is , when world war ii ended .
+lex:	the old man was born in the year , and the world was born in the age .
+bas:	the number of the world was born in the world of the world @-@ year had been been years .
+
+277
+src:	都会 で は 泥棒 に 気 を つけ な さ い 。
+tgt:	beware of thefts in a big city .
+lex:	there is no notice of the city in the city .
+bas:	don 't make the thief .
+
+278
+src:	彼 は ちょっと し た こと で すぐ 怒 る 。
+tgt:	he easily gets angry at trivial things .
+lex:	he is easily up at the wrong .
+bas:	he will soon be a little at a little .
+
+279
+src:	彼 は 、 家 まで ずっと 歩 い た 。
+tgt:	he walked all the way home .
+lex:	he walked in the house .
+bas:	he walked in the house .
+
+280
+src:	彼女 の 親切 な 行為 に 私 は 強 く 心 を 動か さ れ た 。
+tgt:	her kind action strongly impressed me .
+lex:	her kind of her kind was strong .
+bas:	her kind was made of baby .
+
+281
+src:	女 は 女 で あ る こと を 、 男 が 男 で あ る こと を 喜 ぶ よう に 喜 ぶ べ き で あ る 。
+tgt:	women ought to be as glad to be women as men are to be men .
+lex:	the woman is as a man as man as a woman to be a woman .
+bas:	the sun is that the sun is that that there is a man that her life is a man of him .
+
+282
+src:	すぐ に 出来 ま す 。
+tgt:	it will be ready soon .
+lex:	i can can speak once .
+bas:	i can get soon soon .
+
+283
+src:	きみ が もど っ て 来る ころ に は 、 ぼく は 出かけ て しま っ て い る よ 。
+tgt:	by the time you come back , i 'll be gone .
+lex:	i 'm going to go when you will come .
+bas:	i 'm going to go to the back when you 're the first time .
+
+284
+src:	この 前 中国 へ 行 っ た とき 、 上海 を 訪れ た 。
+tgt:	the last time i went to china , i visited shanghai .
+lex:	when i went to this china , i visited the door .
+bas:	when i went to the left , i went to the hospital .
+
+285
+src:	ライラック の 花 を 見 る に は ２、３ 週間 待 た ね ば な ら な い 。
+tgt:	we must wait for a few weeks to see the lilacs .
+lex:	i must wait in the old flowers of the few flowers .
+bas:	you must have already at the flowers in the middle of the flowers .
+
+286
+src:	夜 が 明け 始め た 。
+tgt:	it began to dawn .
+lex:	the night began to the night .
+bas:	the night began to the last night .
+
+287
+src:	けっきょく 、 民主 主義 が 勝利 を 得 る だ ろ う 。
+tgt:	democracy will be victorious in the long run .
+lex:	the democratic of democratic is to me .
+bas:	the more of the japanese is to have paid attention to our country .
+
+288
+src:	両国 は 条約 を 取り決め た 。
+tgt:	the two countries negotiated a treaty .
+lex:	the old man made a big pay .
+bas:	the crowd took the light of the table .
+
+289
+src:	私 は 今 食べ る 気 に な ら な い 。
+tgt:	i don 't feel like eating now .
+lex:	i don 't have to eat now .
+bas:	i have no idea .
+
+290
+src:	何 か 他 に 僕 に し て 欲し い こと は な い で す か 。
+tgt:	is there anything else you want me to do ?
+lex:	what do you want to do with me ?
+bas:	do you want to be a ?
+
+291
+src:	彼 は 切手 を 私 の 二 倍 集め て い る 。
+tgt:	he has collected twice as many stamps as i have .
+lex:	he is proud of his stamps .
+bas:	he has a large dream .
+
+292
+src:	後 に な っ て 、 クリス は 自分 の 行い を 恥ずかし く 思 い 、 彼女 に 謝 る と 、 ベス は 彼 を 許 し て くれ ま し た 。
+tgt:	later , chris felt ashamed and apologized and beth forgave him .
+lex:	the pay was ashamed of her to do him , and i was afraid of him .
+bas:	the young man was kind of his own way , but he was him .
+
+293
+src:	決して カンニング を し て は いけ ま せ ん 。
+tgt:	you should on no account cheat in the exam .
+lex:	you must not live a lot of money .
+bas:	you must not smoke with a horse .
+
+294
+src:	少年 は ラジオ を 聞き ながら 横 に な っ て い た 。
+tgt:	the boy lay listening to the radio .
+lex:	the boy was sleeping in the radio .
+bas:	the boy was gone to the radio .
+
+295
+src:	レインボウ ブリッジ の 長 さ は どの くらい で す か 。
+tgt:	how long is the rainbow bridge ?
+lex:	how long are you ?
+bas:	what is the a long time ?
+
+296
+src:	あいつ は 馬鹿 だ から 、 怖 い も の 知 ら ず だ 。
+tgt:	he is too dumb to fear danger .
+lex:	he is a fool of age , but he is not know .
+bas:	he is a good person .
+
+297
+src:	彼女 は 強制 的 に 私 を 一緒 に 連れ出 し た 。
+tgt:	she forced me to go out with her .
+lex:	she made her dog to the company .
+bas:	she has gone to her .
+
+298
+src:	私 は 誰 か が 彼女 の 代わり を する 人 を 探 し た 。
+tgt:	i looked for someone to take her place .
+lex:	i had a man of who to her .
+bas:	i got a man who who her for her .
+
+299
+src:	時間 通り に は 着け な い よ 。
+tgt:	you will not get there on time .
+lex:	there is no street in the street .
+bas:	you have no time to the street .
+
+300
+src:	ケネディ 氏 は 、 私 達 の ミス を 指摘 し ま し た 。
+tgt:	mr kennedy pointed out our mistakes .
+lex:	mr mr mr mr white me to us .
+bas:	mr mr mr jones was written with us .
+
+301
+src:	彼 は 庭 いじり を する よう に な っ た 。
+tgt:	he has taken to gardening .
+lex:	he became a garden to his garden .
+bas:	he turned to do the garden to the garden .
+
+302
+src:	英語 を 勉強 し な けれ ば な ら な かっ た 。
+tgt:	you had to study english .
+lex:	i had to study english .
+bas:	i had to study english .
+
+303
+src:	そこ に は 消え る こと の な い 薄明かり が あ っ た 。
+tgt:	there was eternal twilight in the place .
+lex:	there was a no woman there .
+bas:	there was a big idea there .
+
+304
+src:	私 は あなた に あえ て うれし い 。
+tgt:	i 'm glad to see you .
+lex:	i 'm looking of you .
+bas:	i 'm sorry to you .
+
+305
+src:	漁師 は 釣り糸 を 水中 に 投げ た 。
+tgt:	the fisherman cast his line into the water .
+lex:	the old man fell into a big nature .
+bas:	the crowd made a big man in the world .
+
+306
+src:	今朝 は 昨日 の 朝 より も ずっと 涼し かっ た 。
+tgt:	this morning it was much cooler than yesterday morning .
+lex:	this morning was just in the morning .
+bas:	this morning was a little to come .
+
+307
+src:	ビル は 優秀 な 科学 者 に な る 素質 を 持 っ て い る 。
+tgt:	bill has the makings of an excellent scientist .
+lex:	bill has a big scientist to the middle of his children .
+bas:	bill has a great deal of never .
+
+308
+src:	彼女 は 日本 で 育 っ た に も かかわ ら ず 、 英語 を 自由 に 使 い こな す 。
+tgt:	she has a good command of english though she was brought up in japan .
+lex:	she is too much to help me to help you english .
+bas:	she is proud of japanese english , but she is to read english .
+
+309
+src:	あの 人 は 顔 は 知 ら な い が 名前 は 知 っ て い る 。
+tgt:	i know him by name , but not by sight .
+lex:	that man is know know .
+bas:	that man has been know that she can .
+
+310
+src:	ジェーン は 私 たち の 決定 に 反対 し た 。
+tgt:	jane kicked at our decision .
+lex:	jane object to our decision .
+bas:	jane lost us on the us .
+
+311
+src:	彼 は 小さな 鶏舎 を 持 っ て い る 。
+tgt:	he keeps a small poultry yard .
+lex:	he has a small country .
+bas:	he has a good idea .
+
+312
+src:	結婚 前 は 両眼 を 大き く 見開 い て おれ 、 その 後 は 、 その 半ば を 閉じ よ 。
+tgt:	keep your eyes wide open before marriage , half shut afterwards .
+lex:	the wedding before is a big life and look in the case of the light .
+bas:	the wedding before before she is , the it is out for the street .
+
+313
+src:	電車 を 降り た とき に 帽子 を 忘れ た 。
+tgt:	i left my hat as i got off the train .
+lex:	i forget the hat when i got to the train .
+bas:	i had a train when i got the train .
+
+314
+src:	トム の 友達 は 彼 の こと を 「 マネー バッグ 」 と 呼 ん だ 。
+tgt:	tom 's friends called him mr money bags .
+lex:	tom is call his mind to his mind .
+bas:	his friend is going to his mind on his own way . &quot;
+
+315
+src:	彼 は あまり に 子供 だ から 誘惑 に かて な かっ た 。
+tgt:	he was so childish that he couldn 't resist temptation .
+lex:	he was not a temptation to his children .
+bas:	he was too old to be a child .
+
+316
+src:	何 か 割引 切符 は あ り ま す か 。
+tgt:	are there any discount tickets for me ?
+lex:	what is the ticket ?
+bas:	is there a time who is ?
+
+317
+src:	彼 は 我々 の 忠告 に 耳 を 貸 さ な かっ た 。
+tgt:	he turned a deaf ear to my advice .
+lex:	he was never to our ears .
+bas:	he was not finished our ears .
+
+318
+src:	私 は 少な く とも 毎月 １ 冊 は 本 を 読 み ま す 。
+tgt:	i read at least one book every month .
+lex:	i read books on the face of a month .
+bas:	i have read books at the best of this time .
+
+319
+src:	姉 は 若 い 力士 を 応援 し て い ま す 。
+tgt:	my sister cheers young sumo wrestlers .
+lex:	my sister is getting young .
+bas:	my sister is proud of his young own .
+
+320
+src:	しかし 彼 の 友達 は 彼 を ケン と 呼 ぶ 。
+tgt:	but his friends call him ken .
+lex:	his friends is a big clean .
+bas:	his friend is at him .
+
+321
+src:	彼女 は 、 それ は あまり に 急 な 知ら せ だ と 彼 に ぐち を こぼ し た 。
+tgt:	she complained to him that it was too short a notice .
+lex:	she made him a hurry of money to hurry that it was not .
+bas:	she made him a very happy .
+
+322
+src:	気 が 散 る から テレビ を 消 し て く れ 。
+tgt:	turn off the television . i can 't concentrate .
+lex:	i am sure to put tv from the tv .
+bas:	please leave the tv from the distance .
+
+323
+src:	誰 が 知 る もの か 。
+tgt:	who knows ?
+lex:	who knows knows ?
+bas:	who do you know what is ?
+
+324
+src:	弟 が お 金 を 頂戴 と 言 い ま し た 。
+tgt:	my little brother asked for some money .
+lex:	my brother was a little money .
+bas:	my brother was told a little money .
+
+325
+src:	それ は 社会 に 寄与 する の だ 。
+tgt:	it will make for the society .
+lex:	it 's a walk to walk .
+bas:	that 's a good time in the country .
+
+326
+src:	私 は 私 の 写真 を と っ て もら い ま し た 。
+tgt:	i had my picture taken .
+lex:	i was given my picture .
+bas:	i had a good picture of my picture .
+
+327
+src:	彼 は 私 に お 世辞 を 言 っ た 。
+tgt:	he paid me a compliment .
+lex:	he said me a little .
+bas:	he told me to be a good idea .
+
+328
+src:	あの プロジェクト に つ い て 彼 を 本気 に さ せ な い と 。
+tgt:	we have got to get him to take that project seriously .
+lex:	don 't let him about them .
+bas:	don 't let him know about that of that point .
+
+329
+src:	この 条件 に 該当 する 人 は 誰 も い な い 。
+tgt:	there is nobody who fulfils these conditions .
+lex:	there is no person to this condition .
+bas:	there is no one to get this better .
+
+330
+src:	あなた は 預言 者 で す か 。
+tgt:	are you the prophet ?
+lex:	what 's your age ?
+bas:	is you a good ?
+
+331
+src:	眠れ る 獅子 は 起こ す な 。
+tgt:	let sleeping dogs lie .
+lex:	don 't forget to leave the light .
+bas:	don 't make a coat .
+
+332
+src:	たいてい の 人 が 以前 より も 暮らし 向き が よ い と 思 う 。
+tgt:	i think most people are better off now than they used to be .
+lex:	it is no more than that people can do better than a day .
+bas:	i think it 's a lot of people in the better than a man .
+
+333
+src:	話 を つけ よう じゃ な い か 。
+tgt:	let 's talk it out .
+lex:	don 't you tell me speak ?
+bas:	don 't you think you should speak .
+
+334
+src:	今日 の 新聞 は 読 み ま し た か 。
+tgt:	have you read today 's paper ?
+lex:	have you read today ?
+bas:	have you read today ?
+
+335
+src:	私 は あなた に ぜひ 出席 し て もら い た い 。
+tgt:	i insist on your being present .
+lex:	i want to be a college matter .
+bas:	i want to be a time for you .
+
+336
+src:	心づくし の 品 を 頂き ありがとう ござ い ま す 。
+tgt:	thank you very much for your thoughtful present .
+lex:	thank you for the about of the water .
+bas:	thank you for a little more .
+
+337
+src:	ベス は いつ も 途方 に くれ て い た 。
+tgt:	beth was always up a tree .
+lex:	the beth was always kind to the left .
+bas:	i always have been to any back .
+
+338
+src:	ニューヨーク は 世界 で 最も にぎやか な 街 だ 。
+tgt:	new york is the busiest city in the world .
+lex:	new york is a most town .
+bas:	new york is the best of the world .
+
+339
+src:	この こと から 、 会社 に は 事故 の 責任 が 無 い こと に な る 。
+tgt:	it follows from this that the company is not responsible for the accident .
+lex:	this is the good responsible of the accident .
+bas:	this is the best park from the accident .
+
+340
+src:	その 話 を 聞 い て 泣 か な い 人 は い な かっ た 。
+tgt:	there was no one but wept to hear the story .
+lex:	there was no people crying to hear the story .
+bas:	there was no one who hear that story .
+
+341
+src:	メアリー は 母親 に 良く 似 て い る 。
+tgt:	mary really takes after her mother .
+lex:	mary is like mother .
+bas:	mary is a good mother .
+
+342
+src:	私 は ゴルフ で 彼 を 負か し た 。
+tgt:	i beat him at golf .
+lex:	i got him golf golf golf golf golf golf golf golf golf .
+bas:	i got him in my mind .
+
+343
+src:	最後 の 傷 が 致命 的 で あ る と わか っ た 。
+tgt:	the last wound proved fatal .
+lex:	the last woman was found with a classical run .
+bas:	the first man was a good distance .
+
+344
+src:	フロスト 氏 は その 地位 に つ く 資格 が あ る 。
+tgt:	mr frost is eligible for the post .
+lex:	mr mr mr mr mr has a change about the us .
+bas:	mr mr mr jones is a good idea .
+
+345
+src:	その 事故 で たくさん の 乗客 が けが し た 。
+tgt:	a number of passengers were injured in the accident .
+lex:	the accident was full of the accident .
+bas:	the accident was full of the accident .
+
+346
+src:	僕 は ガール フレンド と 一緒 に スキー に 行 く 予定 で す 。
+tgt:	i plan to go skiing with my girlfriend .
+lex:	i 'm going to the letter to the girlfriend of the left .
+bas:	i 'm going to go to the go with my uncle .
+
+347
+src:	自動 車 産業 は 日本 の 大きな 産業 の ひと つ で あ る 。
+tgt:	the automobile industry is one of the main industries in japan .
+lex:	the car is a big man to japanese 's big .
+bas:	the car is a big man of japanese countries .
+
+348
+src:	相場 師 の 中 に は 老人 の 無知 と 寂し さ に 付け込 む 奴 が い る 。
+tgt:	some speculators take advantage of the ignorance and helplessness of old people .
+lex:	the into the into the into the into the truth is a good time to the old life of the old .
+bas:	the two of the two countries have been taken on the table .
+
+349
+src:	彼 と 僕 は ツーカー の 仲 だ 。
+tgt:	we can just about read each other 's minds .
+lex:	he is the last time to him .
+bas:	he is a good idea .
+
+350
+src:	部隊 は 陣地 を 守 り 続け た 。
+tgt:	the troops maintained their ground .
+lex:	the old man was abide by a fool of the party .
+bas:	the crowd was caught in the evening .
+
+351
+src:	まず 結婚 しろ 。 そう すれ ば 愛情 と は あと で 生まれ て くる 。
+tgt:	marry first and love will follow .
+lex:	i 'm married and marry , and you 'll get up .
+bas:	i 'm sure to come .
+
+352
+src:	彼 は 無知 で あ る 上 に 、 傲慢 で も あ る 。
+tgt:	besides being ignorant , he is too proud .
+lex:	he is a big opinion to be a fine fine .
+bas:	he is a man of great ability in the evening .
+
+353
+src:	そこ に は 歩 い て 行 っ た 方 が い い よ 。
+tgt:	you 'd better go there on foot .
+lex:	there is better better ?
+bas:	you had better go there in time .
+
+354
+src:	バス に 乗り 遅れ る なんて 君 は 不 注意 だっ た ね 。
+tgt:	it was careless of you to miss the bus .
+lex:	you look not to get up late for the bus .
+bas:	you ought to have been to the bus at bus .
+
+355
+src:	分析 に お い て は 、 クルツ に よ っ て 最初 に 分析 さ れ た 権威 的 行動 の 類型 に 負 っ て い る 部分 が 大き い 。
+tgt:	in my analysis i rely considerably on the types of authoritarian behaviour first analyzed by kurz .
+lex:	the party and the best has been up on the behavior of the development of the development of the action .
+bas:	
+
+356
+src:	君 は いつ 暇 に な り ま す か 。
+tgt:	when will you be free ?
+lex:	do you have to be free ?
+bas:	do you come to succeed ?
+
+357
+src:	明日 集ま り ま しょ う 。
+tgt:	let 's get together tomorrow .
+lex:	i 'll have tomorrow .
+bas:	i 'll be tomorrow .
+
+358
+src:	そんな に 沢山 パン に 乗 る ん か？
+tgt:	you really put that much in the sandwich ?
+lex:	i 'm going to the so i can run the bread .
+bas:	i 'm sorry to hear such a thing .
+
+359
+src:	彼 は 熟練 の ピアニスト だ 。
+tgt:	he is a proficient pianist .
+lex:	he is a pianist .
+bas:	he is a pianist .
+
+360
+src:	私 は あなた を 好き に な ら ず に は い られ な い 。
+tgt:	i cannot help falling in love with you .
+lex:	i cannot help you to like you to like you .
+bas:	i cannot be able to like you to like you .
+
+361
+src:	やはり 、 ここ の タイ 料理 の 味付け は 、 日本 人 好み に し て あ る ん だ ね 。
+tgt:	i think the thai food at this place is seasoned so japanese will like it .
+lex:	the number of here , the most isn 't like japan .
+bas:	the two 's 'm on the japanese is in japanese .
+
+362
+src:	彼 の 憂うつ は 彼女 が キス を する と 晴れ た 。
+tgt:	his depression came to an end when she kissed him .
+lex:	his head was a great man .
+bas:	his ambition was to find her .
+
+363
+src:	ジェーン は テニス を し ま せ ん で し た ね 。
+tgt:	jane didn 't play tennis , did she ?
+lex:	jane was not tennis tennis .
+bas:	jane was not playing tennis .
+
+364
+src:	私 に 何 か 食べ物 を 下さ い 。
+tgt:	give me something to eat .
+lex:	please help yourself to me .
+bas:	please help me something to be food .
+
+365
+src:	私 達 は 毎晩 テレビ を 見 る 。
+tgt:	we watch television every evening .
+lex:	we look tv tv .
+bas:	we look out of tv .
+
+366
+src:	僕 たち に 答え が わか っ た ら すぐ に 君 に 電話 する よ 。
+tgt:	as soon as we get the answer , we 'll phone you .
+lex:	we call to you for a answer for us .
+bas:	i 'll call you to do if we were to know .
+
+367
+src:	今 私 たち に 必要 な の は 休息 で す 。
+tgt:	what we need now is a rest .
+lex:	we need to need now .
+bas:	it is a great person for us .
+
+368
+src:	そう する べ き で は な い と 思 う 。
+tgt:	i don 't think we should do that .
+lex:	i think you should do such a thing .
+bas:	you think it will be not to do .
+
+369
+src:	私 は だま さ れ て い た の だ と い う 結論 に 達 し た 。
+tgt:	i came to the conclusion that i had been deceived .
+lex:	i was full of being a chance to see the matter .
+bas:	i was caught in a short man in the garden .
+
+370
+src:	昨日 ケン に 会 っ た 。
+tgt:	i met ken yesterday .
+lex:	i met ken yesterday .
+bas:	i met the coffee yesterday .
+
+371
+src:	保険 を かけ て 下さ い 。
+tgt:	insure it , please .
+lex:	please put the quiet .
+bas:	please let me know .
+
+372
+src:	良 い 休暇 を 。
+tgt:	have a nice vacation .
+lex:	i am a good vacation .
+bas:	i have a good time .
+
+373
+src:	この 山 に は 狐 が 住 ん で い る と い う こと が 最近 わか っ た 。
+tgt:	we found out recently that some foxes live here on this mountain .
+lex:	i found the mountain recently .
+bas:	the mountain to live in the mountain .
+
+374
+src:	彼 は 疲れ すぎ て い て もう それ 以上 歩け な かっ た 。
+tgt:	he was too tired to walk any more .
+lex:	he was too tired to walk any more .
+bas:	he was too tired to walk any more .
+
+375
+src:	植物 は 土壌 で 育 つ 。
+tgt:	plants are nourished by earth .
+lex:	the plants is very well .
+bas:	the woman is at the same life .
+
+376
+src:	彼 は 神経 衰弱 に な っ て い た 。
+tgt:	he suffered a nervous breakdown .
+lex:	he was not the last person .
+bas:	he was not at the wrong .
+
+377
+src:	ミホ は 私 が 一番 好き な 女の子 で す 。
+tgt:	miho is the girl i like best .
+lex:	the old man likes to me .
+bas:	the language is the best man to me .
+
+378
+src:	彼 は 金持ち で あ る よう に 思 わ れ る 。
+tgt:	he seems to be rich .
+lex:	he seems to be rich .
+bas:	he is said to be a man of great help .
+
+379
+src:	ジョン は 、 その 不 誠実 な セールスマン が 、 彼 を だま し て 無用 な 機械 を 買 わ せ た と 主張 し た 。
+tgt:	john claimed that the dishonest salesman had tricked him into buying a useless piece of machinery .
+lex:	john told him the poor salesman of his machine .
+bas:	john has been bought the place of his speech , but he had a little to buy him to buy him .
+
+380
+src:	それ を 考え る と ぞっと する 。
+tgt:	i shudder to think of it .
+lex:	it 's a idea that i think it is .
+bas:	it is a easy to do it .
+
+381
+src:	彼 の 生活 は 心配 が な い 。
+tgt:	his life is free from care .
+lex:	his life is free from worry .
+bas:	his life is not worry .
+
+382
+src:	もっと 注意 深 く 運転 し な けれ ば 、 事故 に 巻き込 ま れ ま す よ 。
+tgt:	drive more carefully , or you will run into trouble .
+lex:	if you have a deep , you will be accident in the accident .
+bas:	if you have a lot of rain , i 'll be a accident .
+
+383
+src:	それ が 間違 っ て い る 可能 性 が 非常 に 強 い 。
+tgt:	there is a strong presumption against its truth .
+lex:	it is very strong for that that is wrong .
+bas:	it is very difficult of that what to do .
+
+384
+src:	私 は あなた の 助け が とても 必要 で す 。
+tgt:	i am badly in need of your help .
+lex:	i need your help .
+bas:	i need your help .
+
+385
+src:	彼女 は 先月 本社 から 支社 へ 転勤 さ せ られ た 。
+tgt:	she was transferred from the head office to a branch office last month .
+lex:	she was made of the last way of last month .
+bas:	she was made up from the last month .
+
+386
+src:	私 は その 男 に 会 っ た 。 する と 彼 は 私 に 道 を 教え て くれ た 。
+tgt:	i met the man , who showed me the way .
+lex:	he told me that he met the man .
+bas:	i met him to see him a way .
+
+387
+src:	背後 に 見え隠れ する の は 近年 の 不 動産 不況 だ 。
+tgt:	what slips in and out of view in the background is the real estate slump of recent years .
+lex:	the cheeks of the land is a hundred of the blue .
+bas:	the weather that you are to the middle of the city .
+
+388
+src:	彼女 は その 塀 を 赤 く 塗 っ た 。
+tgt:	she painted the wall red .
+lex:	she made the wall red .
+bas:	she got the red red .
+
+389
+src:	彼 ら は 年内 に 在庫 品 の かた を つけ な けれ ば な ら な かっ た 。
+tgt:	they had to clean out the goods in stock within the year .
+lex:	they had to take a lot of air in they .
+bas:	they had to put the put on the air to the early .
+
+390
+src:	カルロス は 山 を 登 っ た 。
+tgt:	carlos climbed the mountain .
+lex:	the old mountain told a mountain .
+bas:	the crowd took the mountain .
+
+391
+src:	私 は フランス 語 は 少し も 知 ら な い 。
+tgt:	i don 't know any french .
+lex:	i have no french word .
+bas:	i don 't know what to speak .
+
+392
+src:	彼 の 双子 の 妹 たち を 区別 する こと が でき な い 。
+tgt:	i can 't tell his twin sisters apart .
+lex:	i can 't have to do our sister .
+bas:	i can 't get a sister to his sister .
+
+393
+src:	我々 は 読み書き を なら う 。
+tgt:	we learn to read and write .
+lex:	we are going to the door .
+bas:	we will help us to be a week .
+
+394
+src:	英語 を 上達 さ せ た い なら 、 でき る だけ 英語 を 話 す よう に つとめ なさ い 。
+tgt:	try to speak english as often as possible if you want to improve your english .
+lex:	please let me speak english . i 'll speak english .
+bas:	tell me a english , and you will speak english , and you will speak english .
+
+395
+src:	人 は 不正 を 正 し た い とき は 法律 に 頼 る こと が 出来 る 。
+tgt:	people can turn to the law if they want to correct an injustice .
+lex:	the people can ask the law when he was doing .
+bas:	the man can be when you have gone to the law .
+
+396
+src:	あの 店 に は 私 に 合 う 帽子 は な かっ た 。
+tgt:	there were no hats in that store that fit me .
+lex:	i didn 't know the hat to that store .
+bas:	i didn 't have to be a hat on that store .
+
+397
+src:	たまたま その 日 は 私 の 誕生 日 で し た 。
+tgt:	it happened that the day was my birthday .
+lex:	the day was birthday with mine .
+bas:	the day was on me .
+
+398
+src:	小切手 で 支払 い た い の で す が 。
+tgt:	i 'd like to pay by check .
+lex:	i 'd like to have paid here .
+bas:	i 'd like to have a good chance .
+
+399
+src:	旅行 会社 の 収益 が 急増 し た 。
+tgt:	travel agencies ' profits soared .
+lex:	the company of the company was a big company .
+bas:	the children were the first way of the trip .
+
+400
+src:	何 の こと を い っ て い る の か 私 に は ピン と き た 。
+tgt:	the allusion was not lost on me .
+lex:	i had a lot of what what to do .
+bas:	what he said to me , i got a lot of him .
+
+401
+src:	テイト 氏 を つれ て き て いただけ ま せ ん か 。
+tgt:	aren 't you going to get mr tate ?
+lex:	could you mind up mr mr mr mr ?
+bas:	can you put the mr mr mr mr mr mr mr mr correct ?
+
+402
+src:	銀河 系 に は 無数 の 星 が あ る 。
+tgt:	there are innumerable stars in the galaxy .
+lex:	there is a stars stars in the middle of the world .
+bas:	there is a good idea of the city .
+
+403
+src:	以前 に その 寺 へ 行 っ た こと が あ る の で 、 私 は 道 を 知 っ て い る 。
+tgt:	having been to the temple before , i know the way .
+lex:	i know the road to the truth , but i know the road .
+bas:	i have been to the way to see the way .
+
+404
+src:	「 あっぱれ ！ 」 天使 は そう い う と 、 稲妻 が 走 る もやもや の 煙 の 中 へ 消え て い っ た 。
+tgt:	&quot; done ! &quot; says the angel , and disappears in a cloud of smoke and a bolt of lightning .
+lex:	&quot; &quot; , &quot; i was sorry to the most during the missed .
+bas:	
+
+405
+src:	悪 い ところ は あ り ま せ ん 。
+tgt:	no need to worry .
+lex:	there is no matter in the bad .
+bas:	i don 't have a bad mind .
+
+406
+src:	最近 私 は よく 眠れ な い 。
+tgt:	i can not get enough sleep any more .
+lex:	i don 't want to be a good recently .
+bas:	i have no choice but to carry .
+
+407
+src:	それ を 私 の ところ に 持 っ て 来 なさ い 。
+tgt:	bring it to me .
+lex:	bring it up with me .
+bas:	come to me .
+
+408
+src:	野鳥 観察 は すばらし い 趣味 で す 。
+tgt:	bird watching is a nice hobby .
+lex:	the old hobby is a wonderful hobby .
+bas:	the old man is a good idea .
+
+409
+src:	雪 は 月曜 から 金曜 まで 降 っ た 。
+tgt:	it snowed from monday to friday .
+lex:	snow went from monday from monday .
+bas:	the snow went to the table .
+
+410
+src:	彼 は 彼女 に 自分 の 計画 を 知 ら せ た 。
+tgt:	he acquainted her with his plan .
+lex:	he made her plan to know her plan .
+bas:	he had to know her plan .
+
+411
+src:	彼 は 数 週間 東京 に 滞在 する だ ろ う 。
+tgt:	he will stay in tokyo for several weeks .
+lex:	he will stay in tokyo in a week .
+bas:	he will be on tokyo in tokyo next week .
+
+412
+src:	あなた は 彼女 が 帰 っ て くる の を 待ち さえ すれ ば よ い 。
+tgt:	you have only to wait for her return .
+lex:	you have to do as she is back her .
+bas:	you had better not come back .
+
+413
+src:	彼 は 大胆 な こと を 言 う 。
+tgt:	he says daring things .
+lex:	he is not bold his bold .
+bas:	he is a good person .
+
+414
+src:	ポール は 学校 で 飛び抜け て 魅力 の あ る 生徒 だ 。
+tgt:	paul is by far the most charming boy in our school .
+lex:	paul is a student student in school .
+bas:	paul is a most student in school in school .
+
+415
+src:	それ で は 契約 と 違 う 。
+tgt:	that 's against the contract .
+lex:	it 's a contract , but a contract of contract .
+bas:	it 's a different person .
+
+416
+src:	貴方 を 愛 する こと に 変わり は な い から 。
+tgt:	i 'll always love you , no matter what happens .
+lex:	i don 't love to love you to love .
+bas:	you don 't want to do a good at your own way .
+
+417
+src:	彼 の 食事 に は カルシウム が 欠け て い る 。
+tgt:	calcium is absent from his diet .
+lex:	his dinner is very large .
+bas:	his opinion is still up .
+
+418
+src:	彼 が どう な っ た か だれ が し っ て い よう か 。
+tgt:	who knows what has become of him ?
+lex:	who has what he has gone .
+bas:	what do you have any notice of him ?
+
+419
+src:	君 達 が お しゃべり を し て い て は 、 授業 が でき ま せ ん 。
+tgt:	i cannot continue my class with you chattering to one another .
+lex:	you can 't class from you to your help .
+bas:	you can 't help you at your help .
+
+420
+src:	ジャネット が 昇進 する みたい よ 。
+tgt:	it looks like janet 's going to be kicked upstairs .
+lex:	it 's all right .
+bas:	it 's a good idea .
+
+421
+src:	固 い 便 が 出 ま す 。
+tgt:	i have hard stools .
+lex:	i 'm glad to do with you .
+bas:	i 'll get the weather .
+
+422
+src:	彼女 が き た と 、 き い た 。
+tgt:	i heard that she came here .
+lex:	she came back .
+bas:	she was sorry to come .
+
+423
+src:	州 政府 は 彼 から 市民 権 を 剥奪 し た 。
+tgt:	the state government deprived the civil rights of their citizen .
+lex:	the government was him from the back .
+bas:	the government was put from him .
+
+424
+src:	クモ は 網 を 張 る 。
+tgt:	spiders spin webs .
+lex:	the old woman has its water .
+bas:	the old man fell down on the table .
+
+425
+src:	彼 ら は いつ も けんか ばかり し て い た 。
+tgt:	they are always quarreling .
+lex:	they were always up in the face of a man .
+bas:	they were always finding fault with his .
+
+426
+src:	じろじろ 見 る の は 無 作法 で あ る 。
+tgt:	it is rude to stare at strangers .
+lex:	it is a rude boy to watch .
+bas:	there is a good time at the .
+
+427
+src:	彼女 は 生き て い る ！ おぼれ かけ て い た ん だ が 、 父親 が 助け た ん だ 。
+tgt:	she 's alive ! she was drowning , but her father saved her .
+lex:	she was help of the father of her father .
+bas:	she was a father , but i could help my father .
+
+428
+src:	彼 は ドア が すべて 安全 に 閉ま っ て い る か どう か 確かめ た 。
+tgt:	he checked that all the doors were safely shut .
+lex:	he was having a wonderful for all day .
+bas:	he was standing at the door .
+
+429
+src:	学生 たち は その 演説 を 聞 く ため に ここ に 集ま っ た 。
+tgt:	the students met here to hear the speech .
+lex:	the students were getting here to hear the speech .
+bas:	the students were here to the speech .
+
+430
+src:	彼 は その 絵 に 目 を 向け た 。
+tgt:	he turned his attention to the picture .
+lex:	he turned his eyes on the picture .
+bas:	he turned up the picture .
+
+431
+src:	あなた は 毎朝 何 時 に 起き ま す か 。
+tgt:	what time do you get up every morning ?
+lex:	do you get up at the morning ?
+bas:	what time do you get up at every morning ?
+
+432
+src:	私 は 疑い 深 い 性格 で す 。
+tgt:	i have a suspicious nature .
+lex:	i 'm deeply .
+bas:	i am a good idea .
+
+433
+src:	ジム は 白 い 帽子 を かぶ っ て い る 。
+tgt:	jim has a white hat on his head .
+lex:	jim is a good hat .
+bas:	jim has a white hat .
+
+434
+src:	２人 の 女性 は お 互い 微笑み あ っ た 。
+tgt:	the two ladies smiled at each other .
+lex:	two women was each other other .
+bas:	two women were all right .
+
+435
+src:	準備 は まだ 出来 て い ま せ ん か 。
+tgt:	aren 't you ready ?
+lex:	can i still still still still ?
+bas:	do you have any good interest ?
+
+436
+src:	彼 は 勇気 の かけら も な かっ た 。
+tgt:	he didn 't have a grain of courage .
+lex:	he was not much courage .
+bas:	he was not a used of a great help .
+
+437
+src:	この 天気 に 外出 する など 想像 も でき な い 。
+tgt:	i can 't fancy going out in this weather .
+lex:	i can 't imagine to get up on this weather .
+bas:	i can 't get out of this weather .
+
+438
+src:	石油 会社 は 再び ガソリン の 価格 を 上げ た 。
+tgt:	the oil companies increased the price of gas again .
+lex:	the company was yelled of gas .
+bas:	the company gave his hand to a large .
+
+439
+src:	彼 は 世界 を 知 ら な い 。
+tgt:	he is ignorant of the world .
+lex:	he knows his world .
+bas:	he doesn 't know the world .
+
+440
+src:	「 もちろん 、 捨て て く れ 」 と 農家 が 答え ま し た 。
+tgt:	&quot; get rid of it , of course ! &quot; answered the farmer .
+lex:	&quot; &quot; , &quot; i 've answer . &quot;
+bas:	&quot; &quot; &quot; &quot; a little , &quot; &quot; i was a great . &quot;
+
+441
+src:	あなた は もう 昼食 を おえ ま し た か 。
+tgt:	have you finished your lunch yet ?
+lex:	did you give up lunch ?
+bas:	did you have a lunch ?
+
+442
+src:	演奏 会 の 切符 は 当 事務 所 で 販売 し て い ま す 。
+tgt:	concert tickets are on sale at this office .
+lex:	the party is too sales to the office .
+bas:	the first party is in the office in the office .
+
+443
+src:	皆 さん 間違い な く ９ 時 に 着 く よう に し て くださ い 。
+tgt:	make sure that all of you arrive at nine .
+lex:	please help yourself to the nine .
+bas:	please come to the left when you have a little .
+
+444
+src:	君 は 神 の 存在 を 信 じ ま す か 。
+tgt:	do you believe in god ?
+lex:	do you believe god ?
+bas:	do you believe in god ?
+
+445
+src:	彼 ら は 二人 とも 親切 で 正直 で す 。
+tgt:	both of them are kind and honest .
+lex:	they are honest with two .
+bas:	they are in honest .
+
+446
+src:	いつ お い で くださ っ て も 歓迎 いた し ま す 。
+tgt:	you have a standing invitation to join us .
+lex:	i 'm getting on you .
+bas:	i 'll help you at any moment .
+
+447
+src:	上空 を ジェット 機 が キーン と い う 音 を 立て て 飛 ん で い っ た 。
+tgt:	the jet made a whining sound as it soared overhead .
+lex:	the light was flying in the garden .
+bas:	the crowd was standing on the air of the war .
+
+448
+src:	どこ に 行 っ た ら 助け て もらえ ま す か 。
+tgt:	where can i get some help ?
+lex:	can you help me ?
+bas:	can you help me ?
+
+449
+src:	しかし 君 は あまり 膝 を 曲げ た く な い で しょ う 。
+tgt:	but you don 't want to bend the knees too much .
+lex:	however will you take part for a too year .
+bas:	i 'll have to have a lot of money in your too .
+
+450
+src:	彼 の 成功 は 大いに 私 の 励み に な っ た 。
+tgt:	his success encouraged me very much .
+lex:	his success was a used in a week .
+bas:	his success was made up of my way to me .
+
+451
+src:	リンゴ を 食べ る 前 に 皮 を む き なさ い 。
+tgt:	take the skin off before you eat the apple .
+lex:	take care before you have to eat .
+bas:	please keep your mind before you eat .
+
+452
+src:	途中 で 乗り換え が 必要 で す か 。
+tgt:	is it necessary to change trains along the way ?
+lex:	what 's your way ?
+bas:	do you need to be in the way ?
+
+453
+src:	幸い 大過 な く 仕事 を 終わ ら せ る こと が でき た 。
+tgt:	fortunately i was able to finish my work without any serious errors .
+lex:	i could not let you finish the work .
+bas:	i could not get up with a work .
+
+454
+src:	バラ が 咲 い て い る 。
+tgt:	the roses are in bloom .
+lex:	rose are in the face .
+bas:	i have a rose .
+
+455
+src:	私 は 昨日 見 た 試合 ほど おもしろ い ラグビー の 試合 を 見 た こと が な かっ た 。
+tgt:	i had never seen such an exciting rugby match as one i saw yesterday .
+lex:	i couldn 't see the game when i saw the game .
+bas:	i didn 't want to see the game yesterday .
+
+456
+src:	その 家 は 警察 の 手入れ を うけ た 。
+tgt:	the house was raided by the police .
+lex:	the house fell the police to the police .
+bas:	the house was a big distance .
+
+457
+src:	彼 は 衝動 に 駆 ら れ た 。
+tgt:	he was borne away by an impulse .
+lex:	he was appointed with a stone .
+bas:	he was born in the last day .
+
+458
+src:	昨日 メアリー は 表紙 が 青 い 本 を くれ た 。
+tgt:	yesterday mary gave me a book the cover of which was blue .
+lex:	mary was a blue book .
+bas:	mary was a good book yesterday .
+
+459
+src:	彼女 に 御 行儀 よ く し なさ い と いつ も 言 っ て い る 。
+tgt:	i 'm constantly telling her to behave herself .
+lex:	you always say that she is always .
+bas:	she always be always kind of her .
+
+460
+src:	少し 待 っ て くれ た ら 、 ジェーン を 電話 に 出 さ せ ま す 。
+tgt:	if you hold on a moment , i will get jane on the phone .
+lex:	if you wait up , i will call you jane .
+bas:	if you have a little to call me , i 'll put you on the phone .
+
+461
+src:	彼女 と は ときおり 美容 院 で 会 い ま す 。
+tgt:	i meet her on occasion at a beauty shop .
+lex:	she is met in the evening .
+bas:	she will come in the last door .
+
+462
+src:	しかし 、 主人 公 は 自ら の 誤り に 気づ い て い る 。
+tgt:	however the protagonist is aware of his own mistakes .
+lex:	however , the theory is always up in the phone .
+bas:	however , the light is a good idea .
+
+463
+src:	私 は 彼 の 態度 に 我慢 でき な い 。
+tgt:	i cannot abide his manner .
+lex:	i can 't put him a manner .
+bas:	i can 't stand his courage .
+
+464
+src:	彼 は 何事 も 程々 と い う 事 を 知 ら ず 、 いつ も 極端 に 走 っ て しま う 。
+tgt:	he is the kind of man who cannot do anything in moderation , but always goes to extremes .
+lex:	he is always running and ran and ran , but he ran out .
+bas:	he always run at the back of a small idea .
+
+465
+src:	道路 を 横断 する とき に は 注意 し なさ い 。
+tgt:	you must be careful in crossing the road .
+lex:	take care to the road .
+bas:	take care at the street when you 're the the street .
+
+466
+src:	自分 の こと だけ 気 に かけ ろ ！
+tgt:	mind your own business !
+lex:	how long !
+bas:	i 'll come as well as you .
+
+467
+src:	友人 は マイ カー を 欲し が っ て い る 。
+tgt:	my friend wants a car of his own .
+lex:	the friend has a car .
+bas:	the friend of the friends have been taken .
+
+468
+src:	彼女 は 私 の ひじ を 引っ張 っ た 。
+tgt:	she gave a pluck at my elbow .
+lex:	she was very sorry .
+bas:	she was my head .
+
+469
+src:	何 が 起こ ろ う と も 、 私 は あなた の 味方 を する 。
+tgt:	i will stand by you whatever happens .
+lex:	what to happen , i will make your teacher .
+bas:	what what what may , i 'll be your family .
+
+470
+src:	コーヒー を 飲 み ま す か 。
+tgt:	will you have some coffee ?
+lex:	can you drink coffee ?
+bas:	do you want a cup of coffee ?
+
+471
+src:	気持ち を 御 察し し ま す 。
+tgt:	i understand how you feel .
+lex:	i 'll be feelings .
+bas:	i 'll give up the feelings .
+
+472
+src:	にわか 雨 に な る らし い で す よ 。
+tgt:	they say we 're going to get some showers .
+lex:	it 's supposed to see you again .
+bas:	you will be a rain at the time .
+
+473
+src:	何事 も 最初 が 肝心 だ よ な 。
+tgt:	whatever you 're doing , starting off on the right foot is essential .
+lex:	it is good to the first time .
+bas:	a first time you are at first .
+
+474
+src:	その 語 は 誤用 さ れ やす い 。
+tgt:	the word lends itself to misuse by beginners .
+lex:	the word is easily easily .
+bas:	the word is in good condition .
+
+475
+src:	彼 ら は 設計 図 どおり に 船 を 作 っ た 。
+tgt:	they built the ship in accordance with the plans .
+lex:	they made the ship on the table .
+bas:	they made a ship in the evening .
+
+476
+src:	ほんの ２、３ 日 前 に 彼女 に 会 っ た 。
+tgt:	i saw her just the other day .
+lex:	i met her at the last day before you meet her .
+bas:	i met her before day .
+
+477
+src:	それ は どの ゲート で す か 。
+tgt:	which gate is that ?
+lex:	what is it ?
+bas:	what is it ?
+
+478
+src:	私 は 何 と し て も 酒 を 止め る つもり で す 。
+tgt:	i will give up drinking at any cost .
+lex:	i will help you to do it .
+bas:	i will have something to do with you .
+
+479
+src:	夜 の ツアー は あ り ま す か 。
+tgt:	do you offer any night tours ?
+lex:	what 's the night ?
+bas:	is there a big day ?
+
+480
+src:	もっと 分別 が あ っ て も い い 年頃 だ よ 。
+tgt:	you 're old enough to know better .
+lex:	it 's good to have more sense .
+bas:	you are a good time of you .
+
+481
+src:	この 停留 所 から ５ 番 目 の バス に 乗り なさ い 。
+tgt:	take a no . 5 bus at this bus stop .
+lex:	get on the bus , and you will be on the bus .
+bas:	take this in the street .
+
+482
+src:	彼 に は お 金 が 足り な い よう だっ た 。
+tgt:	it seemed that he was short of money .
+lex:	he seems to have a money .
+bas:	he was not very much .
+
+483
+src:	彼 は 彼女 を 援助 し て や る 必要 が あ り ま す か 。
+tgt:	does he need to help her ?
+lex:	do he have to do her for her ?
+bas:	do he need to help her ?
+
+484
+src:	軽 い 風邪 で す 。
+tgt:	it 's only a slight cold .
+lex:	i have a cold cold .
+bas:	it is a cold .
+
+485
+src:	サッカー チーム 全体 が 優勝 し て 浮き浮き し て た 。
+tgt:	the whole soccer team was on cloud nine after winning the championship .
+lex:	the soccer of the soccer of team was win .
+bas:	the team was made up of the team of the team .
+
+486
+src:	この 町 は 気 に 入 り ま し た か 。
+tgt:	how do you like this town ?
+lex:	what did this town on your notice ?
+bas:	did this town up ?
+
+487
+src:	冬 は 過ぎ去 っ た 。
+tgt:	winter is gone .
+lex:	the winter was at the same winter .
+bas:	we had a lot of finished in the winter .
+
+488
+src:	彼 の 助け 無し に は 、 や っ て いけ な い 。
+tgt:	i cannot manage without his support .
+lex:	i don 't have to do up to his help .
+bas:	you must not have his help .
+
+489
+src:	この ホール は 最大 で １０００ 人 収容 でき る 。
+tgt:	this hall holds a maximum of 1,000 people .
+lex:	this city can be largest by largest .
+bas:	this machine is by a man of being a man .
+
+490
+src:	天気 予報 は どう で し た か 。
+tgt:	what was the weather report ?
+lex:	what did you ask the weather weather ?
+bas:	what did the weather ?
+
+491
+src:	再三 彼 ら を 招待 し た が 決して こ な かっ た 。
+tgt:	time after time i 've invited them to come over and visit us but time and time again they 've never come .
+lex:	i had no one when they had to invitation .
+bas:	i didn 't want to put them .
+
+492
+src:	誰 も が 彼 の 技術 を 認め た 。
+tgt:	everyone recognized his skill .
+lex:	everyone made his skill .
+bas:	everyone did his own experience .
+
+493
+src:	貴方 は 、 明日 学校 に 行 く だ ろ う 。
+tgt:	you 'll go to school tomorrow .
+lex:	i will go to school tomorrow .
+bas:	you will go to school tomorrow .
+
+494
+src:	この データ は その 議論 に と っ て 重要 だ 。
+tgt:	this data is immaterial to the argument .
+lex:	this data is important to the argument .
+bas:	this picture is a great deal of the bill .
+
+495
+src:	彼女 と は よく 会 い ま す か 。
+tgt:	do you see her often ?
+lex:	do you see her ?
+bas:	do you see her for ?
+
+496
+src:	彼 ら は 容易 な ら ぬ 事態 に 直面 し て い る 。
+tgt:	they are faced with a serious situation .
+lex:	they are living in the early situation .
+bas:	they are in a lot of people in the face .
+
+497
+src:	多く の 時間 が 無駄 に な っ た 。
+tgt:	much time was wasted .
+lex:	many hours were use .
+bas:	many hours were caught .
+
+498
+src:	僕 の もの は 全て 君 の 物 だ 。
+tgt:	whatever i have is yours .
+lex:	my belong is to your best .
+bas:	my mind is your .
+
+499
+src:	ステーキ は 中位 で 焼 い て くださ い 。
+tgt:	i like my steak medium .
+lex:	i am medium with my steak .
+bas:	i 'm sorry to the same mistake .
+

@@ -1,0 +1,10 @@
+P(\text{-}|\text{ng}) &= 8.139\mathrm{e}{-01}&P(\text{g}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{q}|\text{ng}) &= 1.302\mathrm{e}{-04}\\
+P(\text{#}|\text{ng}) &= 1.432\mathrm{e}{-03}&P(\text{h}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{r}|\text{ng}) &= 1.185\mathrm{e}{-02}\\
+P(\text{.}|\text{ng}) &= 2.617\mathrm{e}{-02}&P(\text{i}|\text{ng}) &= 1.432\mathrm{e}{-03}&P(\text{s}|\text{ng}) &= 2.096\mathrm{e}{-02}\\
+P(\text{0}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{j}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{t}|\text{ng}) &= 1.315\mathrm{e}{-02}\\
+P(\text{a}|\text{ng}) &= 2.734\mathrm{e}{-03}&P(\text{k}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{u}|\text{ng}) &= 2.734\mathrm{e}{-03}\\
+P(\text{b}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{l}|\text{ng}) &= 2.734\mathrm{e}{-03}&P(\text{v}|\text{ng}) &= 1.302\mathrm{e}{-04}\\
+P(\text{c}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{m}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{w}|\text{ng}) &= 1.302\mathrm{e}{-04}\\
+P(\text{d}|\text{ng}) &= 4.036\mathrm{e}{-03}&P(\text{n}|\text{ng}) &= 1.432\mathrm{e}{-03}&P(\text{x}|\text{ng}) &= 1.302\mathrm{e}{-04}\\
+P(\text{e}|\text{ng}) &= 8.737\mathrm{e}{-02}&P(\text{o}|\text{ng}) &= 6.641\mathrm{e}{-03}&P(\text{y}|\text{ng}) &= 1.302\mathrm{e}{-04}\\
+P(\text{f}|\text{ng}) &= 1.432\mathrm{e}{-03}&P(\text{p}|\text{ng}) &= 1.302\mathrm{e}{-04}&P(\text{z}|\text{ng}) &= 1.302\mathrm{e}{-04}\\
