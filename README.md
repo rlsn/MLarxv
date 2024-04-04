@@ -1,4 +1,4 @@
-# Machines Learning Archive
+# Machine Learning Archive
 - Machine Learning and Pattern Recognition
   - [Bayes classifier](mlpr/bayes/Bayes.ipynb)
   - [Audio prediction](mlpr/1-audio-pred/report.ipynb)
